@@ -1,0 +1,115 @@
+[2025-05-25 16:07:38] [INFO] Created checkout session for Order #test_1748182058 - Status: 400
+[2025-05-25 16:07:38] [ERROR] Failed to create checkout session: line_items.0.currency is required.
+[2025-05-25 16:09:00] [INFO] Created checkout session for Order #test_1748182139 - Status: 200
+[2025-05-25 16:10:06] [ERROR] Failed to retrieve checkout session: No such checkout session with id {CHECKOUT_SESSION_ID}.
+[2025-05-25 16:16:55] [ERROR] Failed to retrieve checkout session: No such checkout session with id {CHECKOUT_SESSION_ID}.
+[2025-05-25 16:17:59] [ERROR] Failed to retrieve checkout session: No such checkout session with id {CHECKOUT_SESSION_ID}.
+[2025-05-25 16:18:03] [ERROR] Failed to retrieve checkout session: No such checkout session with id {CHECKOUT_SESSION_ID}.
+[2025-05-25 16:20:45] [ERROR] Failed to retrieve checkout session: No such checkout session with id {CHECKOUT_SESSION_ID}.
+[2025-05-25 16:21:03] [ERROR] Failed to retrieve checkout session: No such checkout session with id {CHECKOUT_SESSION_ID}.
+[2025-05-25 16:21:07] [ERROR] Failed to retrieve checkout session: No such checkout session with id {CHECKOUT_SESSION_ID}.
+[2025-05-25 16:21:11] [ERROR] Failed to retrieve checkout session: No such checkout session with id {CHECKOUT_SESSION_ID}.
+[2025-05-25 16:21:28] [ERROR] Failed to retrieve checkout session: No such checkout session with id {CHECKOUT_SESSION_ID}.
+[2025-05-25 16:24:18] [ERROR] Failed to retrieve checkout session: No such checkout session with id {CHECKOUT_SESSION_ID}.
+[2025-05-25 16:24:58] [INFO] Created checkout session for Order #test_1748183097 - Status: 200
+[2025-05-25 16:26:16] [ERROR] Failed to retrieve checkout session: No such checkout session with id {CHECKOUT_SESSION_ID}.
+[2025-05-25 16:30:23] [ERROR] Failed to retrieve checkout session: No such checkout session with id {CHECKOUT_SESSION_ID}.
+[2025-05-25 16:31:51] [ERROR] Failed to retrieve checkout session: No such checkout session with id {CHECKOUT_SESSION_ID}.
+[2025-05-25 16:34:05] [ERROR] Failed to retrieve checkout session: No such checkout session with id {CHECKOUT_SESSION_ID}.
+[2025-05-25 16:34:51] [ERROR] Failed to retrieve checkout session: No such checkout session with id {CHECKOUT_SESSION_ID}.
+[2025-05-25 16:40:10] [INFO] Created checkout session for Order #test_1748184009 - Status: 200
+[2025-05-25 16:47:38] [INFO] Created checkout session for Order #test_1748184457 - Status: 200
+[2025-05-25 18:09:32] [INFO] Created checkout session for Order #test_1748189371 - Status: 200
+[2025-05-25 18:24:40] [INFO] Created checkout session for Order #test_1748190279 - Status: 200
+[2025-05-25 18:36:59] [INFO] Created checkout session for Order #test_1748191018 - Status: 200
+[2025-05-25 18:37:43] [INFO] Created checkout session for Order #test_1748191062 - Status: 200
+[2025-05-25 18:38:11] [INFO] Created checkout session for Order #test_1748191090 - Status: 200
+[2025-05-25 19:43:56] [ERROR] Failed to retrieve checkout session: No such checkout session with id {CHECKOUT_SESSION_ID}.
+[2025-05-25 19:46:54] [ERROR] Failed to retrieve checkout session: No such checkout session with id {CHECKOUT_SESSION_ID}.
+[2025-05-25 19:50:13] [INFO] Updating order from PayMongo session: {CHECKOUT_SESSION_ID}
+[2025-05-25 19:50:13] [INFO] No order found with session ID: {CHECKOUT_SESSION_ID} - will check if order_id is provided in URL
+[2025-05-25 19:50:13] [INFO] Updated order #24 with session ID {CHECKOUT_SESSION_ID} from URL parameter
+[2025-05-25 19:50:13] [INFO] Found order #24 with current status: pending, payment status: pending
+[2025-05-25 19:50:13] [INFO] Retrieving payment status from PayMongo for session {CHECKOUT_SESSION_ID}
+[2025-05-25 19:50:13] [ERROR] Failed to retrieve checkout session: No such checkout session with id {CHECKOUT_SESSION_ID}.
+[2025-05-25 19:50:13] [INFO] PayMongo API response: {"success":false,"message":"Failed to retrieve checkout session: No such checkout session with id {CHECKOUT_SESSION_ID}."}
+[2025-05-25 19:50:13] [ERROR] Failed to get payment status from PayMongo: Failed to retrieve checkout session: No such checkout session with id {CHECKOUT_SESSION_ID}.
+[2025-05-25 19:51:40] [INFO] Updating order from PayMongo session: {CHECKOUT_SESSION_ID}
+[2025-05-25 19:51:40] [INFO] Found order #24 with current status: pending, payment status: pending
+[2025-05-25 19:51:40] [INFO] Retrieving payment status from PayMongo for session {CHECKOUT_SESSION_ID}
+[2025-05-25 19:51:40] [ERROR] Failed to retrieve checkout session: No such checkout session with id {CHECKOUT_SESSION_ID}.
+[2025-05-25 19:51:40] [INFO] PayMongo API response: {"success":false,"message":"Failed to retrieve checkout session: No such checkout session with id {CHECKOUT_SESSION_ID}."}
+[2025-05-25 19:51:40] [ERROR] Failed to get payment status from PayMongo: Failed to retrieve checkout session: No such checkout session with id {CHECKOUT_SESSION_ID}.
+[2025-05-25 20:01:49] [INFO] Starting force payment update script
+[2025-05-25 20:01:49] [INFO] Updating order from PayMongo session: cs_XRZEnVgYtAe5yXWfFBUhXhtg
+[2025-05-25 20:01:49] [INFO] Found order #25 with current status: pending, payment status: pending
+[2025-05-25 20:01:49] [INFO] Retrieving payment status from PayMongo for session cs_XRZEnVgYtAe5yXWfFBUhXhtg
+[2025-05-25 20:01:50] [INFO] Retrieved checkout session: cs_XRZEnVgYtAe5yXWfFBUhXhtg - Status: succeeded
+[2025-05-25 20:01:50] [INFO] PayMongo API response: {"success":true,"payment_status":"succeeded","payment_id":"pi_cVrBUHZk2MBNRkyKreQDudEU","payment_method":"gcash","session":{"id":"cs_XRZEnVgYtAe5yXWfFBUhXhtg","type":"checkout_session","attributes":{"billing":{"address":{"city":null,"country":null,"line1":null,"line2":null,"postal_code":null,"state":null},"email":null,"name":null,"phone":null},"billing_information_fields_editable":"enabled","cancel_url":"http:\/\/localhost\/gawasainteg\/checkout.php?canceled=true","checkout_url":"https:\/\/checkout.paymongo.com\/cs_XRZEnVgYtAe5yXWfFBUhXhtg_client_g9kcyCTEDxqmLUQo6FoGWetP#cGtfdGVzdF96UFluQlZBSmVNc0I0UzJ0aWVNSzZzVjU=","client_key":"cs_XRZEnVgYtAe5yXWfFBUhXhtg_client_g9kcyCTEDxqmLUQo6FoGWetP","customer_email":null,"description":"Order #25","line_items":[{"amount":5000,"currency":"PHP","description":"Standard delivery fee","images":[],"name":"Delivery Fee","quantity":1},{"amount":35000,"currency":"PHP","description":"Order #25","images":[],"name":"Crispy Pata","quantity":1}],"livemode":false,"merchant":"Gym ni LVJ","origin":null,"paid_at":1748195492,"payments":[{"id":"pay_YgkzoJA5bNYkmJXGtpHY5qjZ","type":"payment","attributes":{"access_url":null,"amount":40000,"balance_transaction_id":"bal_txn_E2w6cRgxgrAiRJL5t7aLvGwt","billing":{"address":{"city":"","country":"","line1":"","line2":"","postal_code":"","state":""},"email":"kenjimazo@gmail.com","name":"Kenji Ubana Mazo","phone":"09544259836"},"currency":"PHP","description":"Order #25","disputed":false,"external_reference_number":null,"fee":1000,"instant_settlement":null,"livemode":false,"net_amount":39000,"origin":"api","payment_intent_id":"pi_cVrBUHZk2MBNRkyKreQDudEU","payout":null,"source":{"id":"src_QPXqL52xwzVj4eLhxzMqxDFm","type":"gcash","provider":{"id":null},"provider_id":null},"statement_descriptor":"Gawasa Integ","status":"paid","tax_amount":null,"metadata":null,"promotion":null,"refunds":[],"taxes":[],"available_at":1748422800,"created_at":1748195493,"credited_at":1749027600,"paid_at":1748195492,"updated_at":1748195493}}],"payment_intent":{"id":"pi_cVrBUHZk2MBNRkyKreQDudEU","type":"payment_intent","attributes":{"amount":40000,"capture_type":"automatic","client_key":"pi_cVrBUHZk2MBNRkyKreQDudEU_client_oHQPMyB1DTJmgtjkc7EZNyCS","currency":"PHP","description":"Order #25","livemode":false,"original_amount":40000,"statement_descriptor":"Gawasa Integ","status":"succeeded","last_payment_error":null,"payment_method_allowed":["card","gcash"],"payments":[{"id":"pay_YgkzoJA5bNYkmJXGtpHY5qjZ","type":"payment","attributes":{"access_url":null,"amount":40000,"balance_transaction_id":"bal_txn_E2w6cRgxgrAiRJL5t7aLvGwt","billing":{"address":{"city":"","country":"","line1":"","line2":"","postal_code":"","state":""},"email":"kenjimazo@gmail.com","name":"Kenji Ubana Mazo","phone":"09544259836"},"currency":"PHP","description":"Order #25","disputed":false,"external_reference_number":null,"fee":1000,"instant_settlement":null,"livemode":false,"net_amount":39000,"origin":"api","payment_intent_id":"pi_cVrBUHZk2MBNRkyKreQDudEU","payout":null,"source":{"id":"src_QPXqL52xwzVj4eLhxzMqxDFm","type":"gcash","provider":{"id":null},"provider_id":null},"statement_descriptor":"Gawasa Integ","status":"paid","tax_amount":null,"metadata":null,"promotion":null,"refunds":[],"taxes":[],"available_at":1748422800,"created_at":1748195493,"credited_at":1749027600,"paid_at":1748195492,"updated_at":1748195493}}],"next_action":null,"payment_method_options":{"card":{"request_three_d_secure":"any"}},"metadata":null,"setup_future_usage":null,"created_at":1748195455,"updated_at":1748195493}},"payment_method_types":["card","gcash"],"payment_method_used":"gcash","reference_number":"25","send_email_receipt":false,"show_description":true,"show_line_items":true,"status":"active","success_url":"http:\/\/localhost\/gawasainteg\/checkout_success.php?session_id={CHECKOUT_SESSION_ID}&order_id=25","created_at":1748195455,"updated_at":1748195455,"metadata":null}}}
+[2025-05-25 20:01:50] [INFO] PayMongo payment status: succeeded
+[2025-05-25 20:01:50] [INFO] Updating order #25 to status: processing, payment status: paid
+[2025-05-25 20:01:50] [INFO] Successfully updated order #25 payment status to paid
+[2025-05-25 20:07:56] [INFO] Auto-checking payment status for session: {CHECKOUT_SESSION_ID}
+[2025-05-25 20:07:56] [INFO] Updating order from PayMongo session: {CHECKOUT_SESSION_ID}
+[2025-05-25 20:07:56] [INFO] Found order #24 with current status: pending, payment status: pending
+[2025-05-25 20:07:56] [INFO] Retrieving payment status from PayMongo for session {CHECKOUT_SESSION_ID}
+[2025-05-25 20:07:56] [ERROR] Failed to retrieve checkout session: No such checkout session with id {CHECKOUT_SESSION_ID}.
+[2025-05-25 20:07:56] [INFO] PayMongo API response: {"success":false,"message":"Failed to retrieve checkout session: No such checkout session with id {CHECKOUT_SESSION_ID}."}
+[2025-05-25 20:07:56] [ERROR] Failed to get payment status from PayMongo: Failed to retrieve checkout session: No such checkout session with id {CHECKOUT_SESSION_ID}.
+[2025-05-25 20:07:56] [WARNING] Auto-update failed: Failed to retrieve checkout session: No such checkout session with id {CHECKOUT_SESSION_ID}.
+[2025-05-25 20:07:56] [INFO] Updating order from PayMongo session: {CHECKOUT_SESSION_ID}
+[2025-05-25 20:07:56] [INFO] Found order #24 with current status: pending, payment status: pending
+[2025-05-25 20:07:56] [INFO] Retrieving payment status from PayMongo for session {CHECKOUT_SESSION_ID}
+[2025-05-25 20:07:57] [ERROR] Failed to retrieve checkout session: No such checkout session with id {CHECKOUT_SESSION_ID}.
+[2025-05-25 20:07:57] [INFO] PayMongo API response: {"success":false,"message":"Failed to retrieve checkout session: No such checkout session with id {CHECKOUT_SESSION_ID}."}
+[2025-05-25 20:07:57] [ERROR] Failed to get payment status from PayMongo: Failed to retrieve checkout session: No such checkout session with id {CHECKOUT_SESSION_ID}.
+[2025-05-25 20:28:42] [INFO] Auto-checking payment status for session: {CHECKOUT_SESSION_ID}
+[2025-05-25 20:28:42] [INFO] Updating order from PayMongo session: {CHECKOUT_SESSION_ID}
+[2025-05-25 20:28:42] [INFO] Found order #24 with current status: pending, payment status: pending
+[2025-05-25 20:28:42] [INFO] Retrieving payment status from PayMongo for session {CHECKOUT_SESSION_ID}
+[2025-05-25 20:28:43] [ERROR] Failed to retrieve checkout session: No such checkout session with id {CHECKOUT_SESSION_ID}.
+[2025-05-25 20:28:43] [INFO] PayMongo API response: {"success":false,"message":"Failed to retrieve checkout session: No such checkout session with id {CHECKOUT_SESSION_ID}."}
+[2025-05-25 20:28:43] [ERROR] Failed to get payment status from PayMongo: Failed to retrieve checkout session: No such checkout session with id {CHECKOUT_SESSION_ID}.
+[2025-05-25 20:28:43] [WARNING] Auto-update failed: Failed to retrieve checkout session: No such checkout session with id {CHECKOUT_SESSION_ID}.
+[2025-05-25 20:28:43] [INFO] Force payment update for order #31
+[2025-05-25 20:28:43] [INFO] Successfully forced payment status for order #31 to paid
+[2025-05-25 20:31:06] [INFO] Auto-checking payment status for session: {CHECKOUT_SESSION_ID}
+[2025-05-25 20:31:06] [INFO] Updating order from PayMongo session: {CHECKOUT_SESSION_ID}
+[2025-05-25 20:31:06] [INFO] Found order #24 with current status: pending, payment status: pending
+[2025-05-25 20:31:06] [INFO] Retrieving payment status from PayMongo for session {CHECKOUT_SESSION_ID}
+[2025-05-25 20:31:06] [ERROR] Failed to retrieve checkout session: No such checkout session with id {CHECKOUT_SESSION_ID}.
+[2025-05-25 20:31:06] [INFO] PayMongo API response: {"success":false,"message":"Failed to retrieve checkout session: No such checkout session with id {CHECKOUT_SESSION_ID}."}
+[2025-05-25 20:31:06] [ERROR] Failed to get payment status from PayMongo: Failed to retrieve checkout session: No such checkout session with id {CHECKOUT_SESSION_ID}.
+[2025-05-25 20:31:06] [WARNING] Auto-update failed: Failed to retrieve checkout session: No such checkout session with id {CHECKOUT_SESSION_ID}.
+[2025-05-25 20:31:06] [INFO] Force payment update for order #31
+[2025-05-25 20:31:06] [INFO] Order #31 is already marked as paid
+[2025-05-25 20:32:56] [INFO] Auto-checking payment status for session: {CHECKOUT_SESSION_ID}
+[2025-05-25 20:32:56] [INFO] Updating order from PayMongo session: {CHECKOUT_SESSION_ID}
+[2025-05-25 20:32:56] [INFO] Found order #24 with current status: pending, payment status: pending
+[2025-05-25 20:32:56] [INFO] Retrieving payment status from PayMongo for session {CHECKOUT_SESSION_ID}
+[2025-05-25 20:32:57] [ERROR] Failed to retrieve checkout session: No such checkout session with id {CHECKOUT_SESSION_ID}.
+[2025-05-25 20:32:57] [INFO] PayMongo API response: {"success":false,"message":"Failed to retrieve checkout session: No such checkout session with id {CHECKOUT_SESSION_ID}."}
+[2025-05-25 20:32:57] [ERROR] Failed to get payment status from PayMongo: Failed to retrieve checkout session: No such checkout session with id {CHECKOUT_SESSION_ID}.
+[2025-05-25 20:32:57] [WARNING] Auto-update failed: Failed to retrieve checkout session: No such checkout session with id {CHECKOUT_SESSION_ID}.
+[2025-05-25 20:32:57] [INFO] Force payment update for order #31
+[2025-05-25 20:32:57] [INFO] Order #31 is already marked as paid
+[2025-05-25 20:33:33] [INFO] Auto-checking payment status for session: {CHECKOUT_SESSION_ID}
+[2025-05-25 20:33:33] [INFO] Updating order from PayMongo session: {CHECKOUT_SESSION_ID}
+[2025-05-25 20:33:33] [INFO] Found order #24 with current status: pending, payment status: pending
+[2025-05-25 20:33:33] [INFO] Retrieving payment status from PayMongo for session {CHECKOUT_SESSION_ID}
+[2025-05-25 20:33:34] [ERROR] Failed to retrieve checkout session: No such checkout session with id {CHECKOUT_SESSION_ID}.
+[2025-05-25 20:33:34] [INFO] PayMongo API response: {"success":false,"message":"Failed to retrieve checkout session: No such checkout session with id {CHECKOUT_SESSION_ID}."}
+[2025-05-25 20:33:34] [ERROR] Failed to get payment status from PayMongo: Failed to retrieve checkout session: No such checkout session with id {CHECKOUT_SESSION_ID}.
+[2025-05-25 20:33:34] [WARNING] Auto-update failed: Failed to retrieve checkout session: No such checkout session with id {CHECKOUT_SESSION_ID}.
+[2025-05-25 20:33:34] [INFO] Force payment update for order #33
+[2025-05-25 20:33:34] [INFO] Successfully forced payment status for order #33 to paid
+[2025-05-25 20:44:47] [INFO] Auto-checking payment status for session: {CHECKOUT_SESSION_ID}
+[2025-05-25 20:44:47] [INFO] Updating order from PayMongo session: {CHECKOUT_SESSION_ID}
+[2025-05-25 20:44:47] [INFO] Found order #24 with current status: pending, payment status: pending
+[2025-05-25 20:44:47] [INFO] Retrieving payment status from PayMongo for session {CHECKOUT_SESSION_ID}
+[2025-05-25 20:44:48] [ERROR] Failed to retrieve checkout session: No such checkout session with id {CHECKOUT_SESSION_ID}.
+[2025-05-25 20:44:48] [INFO] PayMongo API response: {"success":false,"message":"Failed to retrieve checkout session: No such checkout session with id {CHECKOUT_SESSION_ID}."}
+[2025-05-25 20:44:48] [ERROR] Failed to get payment status from PayMongo: Failed to retrieve checkout session: No such checkout session with id {CHECKOUT_SESSION_ID}.
+[2025-05-25 20:44:48] [WARNING] Auto-update failed: Failed to retrieve checkout session: No such checkout session with id {CHECKOUT_SESSION_ID}.
+[2025-05-25 20:44:48] [INFO] Force payment update for order #35
+[2025-05-25 20:44:48] [INFO] Successfully forced payment status for order #35 to paid

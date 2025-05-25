@@ -1,0 +1,10 @@
+[25-May-2025 19:32:46 Europe/Berlin] PHP Warning:  require_once(includes/db_connect.php): Failed to open stream: No such file or directory in C:\xampp3\htdocs\gawasainteg\paymongo_checkout.php on line 37
+[25-May-2025 19:32:46 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/db_connect.php' (include_path='C:\xampp3\php\PEAR') in C:\xampp3\htdocs\gawasainteg\paymongo_checkout.php:37
+Stack trace:
+#0 {main}
+  thrown in C:\xampp3\htdocs\gawasainteg\paymongo_checkout.php on line 37
+[25-May-2025 19:33:58 Europe/Berlin] PHP Warning:  require_once(includes/db_connect.php): Failed to open stream: No such file or directory in C:\xampp3\htdocs\gawasainteg\paymongo_checkout.php on line 37
+[25-May-2025 19:33:58 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/db_connect.php' (include_path='C:\xampp3\php\PEAR') in C:\xampp3\htdocs\gawasainteg\paymongo_checkout.php:37
+Stack trace:
+#0 {main}
+  thrown in C:\xampp3\htdocs\gawasainteg\paymongo_checkout.php on line 37

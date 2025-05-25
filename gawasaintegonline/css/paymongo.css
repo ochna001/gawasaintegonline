@@ -1,0 +1,95 @@
+/* PayMongo Integration Styles */
+
+.paymongo-options {
+    margin-top: 15px;
+    padding: 15px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    border: 1px solid #e0e0e0;
+}
+
+.paymongo-options h3 {
+    margin-top: 0;
+    margin-bottom: 5px;
+    font-size: 16px;
+    color: #333;
+}
+
+.paymongo-note {
+    font-size: 12px;
+    color: #666;
+    margin-bottom: 15px;
+    font-style: italic;
+}
+
+.paymongo-option {
+    display: flex;
+    align-items: center;
+    margin-bottom: 12px;
+    padding: 10px;
+    background-color: white;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    transition: all 0.2s ease;
+}
+
+.paymongo-option:hover {
+    border-color: #E71D36;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.paymongo-option img {
+    width: 40px;
+    height: 40px;
+    object-fit: contain;
+    margin-right: 15px;
+    border-radius: 4px;
+}
+
+.paymongo-option span {
+    font-weight: 500;
+}
+
+.paymongo-option input[type="radio"]:checked + img + span,
+.paymongo-option input[type="radio"]:checked + span {
+    color: #E71D36;
+}
+
+.paymongo-option input[type="radio"]:checked ~ img {
+    border-color: #E71D36;
+}
+
+.payment-description {
+    margin-top: 15px;
+    padding: 12px;
+    background-color: #e8f4fd;
+    border-radius: 5px;
+    border-left: 4px solid #4a90e2;
+    display: none; /* Initially hidden, will be shown via JavaScript */
+}
+
+.payment-description p {
+    margin: 0;
+    color: #1c4a80;
+    font-size: 14px;
+}
+
+/* Mobile responsive adjustments */
+@media (max-width: 768px) {
+    .paymongo-option {
+        padding: 8px;
+    }
+    
+    .paymongo-option img {
+        width: 30px;
+        height: 30px;
+        margin-right: 10px;
+    }
+}
+
+/* Creating a folder for payment method logos in assets if it doesn't exist */
+.payment-method-icon img {
+    width: 36px;
+    height: 36px;
+    object-fit: contain;
+}

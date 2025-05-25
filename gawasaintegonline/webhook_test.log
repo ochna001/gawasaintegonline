@@ -1,0 +1,3 @@
+2025-05-25 19:54:17 - Starting webhook test
+2025-05-25 19:54:17 - Test payload: {"data":{"id":"evt_68335949d5713","attributes":{"type":"checkout_session.completed","data":{"data":{"id":"cs_XRZEnVgYtAe5yXWfFBUhXhtg","attributes":{"type":"checkout_session.completed","data":{"attributes":{"payment_intent_id":"cs_XRZEnVgYtAe5yXWfFBUhXhtg","status":"paid"}}}}}}}}
+2025-05-25 19:54:17 - Testing webhook for order #25 with session ID cs_XRZEnVgYtAe5yXWfFBUhXhtg

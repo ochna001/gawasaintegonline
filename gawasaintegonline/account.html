@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Local Flavors at Your Fingertips - Account</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="css/account.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <header class="header">
+        <nav class="nav-container">
+            <div class="logo">
+                <a href="index.html">
+                    <img src="assets/logo.png" alt="Local Flavors Logo" class="logo-image">
+                </a>
+            </div>
+            <div class="nav-links">
+                <a href="index.html">Home</a>
+                <a href="menu.php">Menu</a>
+                <a href="profile.php" class="account-link active" id="accountLink">Account</a>
+                <a href="cart.html" class="cart-icon">
+                    <i class="fas fa-shopping-cart"></i>
+                    <span class="cart-count">0</span>
+                </a>
+                <div class="auth-links" id="authLinks">
+                    <a href="login.php" class="login-link">Login</a>
+                    <a href="register.php" class="register-link">Register</a>
+                </div>
+            </div>
+            <button class="mobile-menu-btn">
+                <i class="fas fa-bars"></i>
+            </button>
+        </nav>
+    </header>
+
+    <main class="account-main">
+        <div class="account-container">
+            <div class="account-sidebar">
+                <div class="user-profile">
+                    <div class="profile-image">
+                        <i class="fas fa-user-circle"></i>
+                    </div>
+                    <h2 id="userName">Guest User</h2>
+                    <p id="userEmail">guest@example.com</p>
+                </div>
+                <nav class="account-nav">
+                    <a href="#profile" class="active">Profile</a>
+                    <a href="#orders">Orders</a>
+                    <a href="#addresses">Addresses</a>
+                    <a href="#settings">Settings</a>
+                    <a href="#" id="logoutBtn">Logout</a>
+                </nav>
+            </div>
+
+            <div class="account-content">
+                <!-- Profile Section -->
+                <section id="profile" class="account-section active">
+                    <h2>Profile Information</h2>
+                    <form id="profileForm" class="account-form">
+                        <div class="form-group">
+                            <label for="fullName">Full Name</label>
+                            <input type="text" id="fullName" name="fullName" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="email">Email</label>
+                            <input type="email" id="email" name="email" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="phone">Phone Number</label>
+                            <input type="tel" id="phone" name="phone" required>
+                        </div>
+                        <button type="submit" class="save-btn">Save Changes</button>
+                    </form>
+                </section>
+
+                <!-- Orders Section -->
+                <section id="orders" class="account-section">
+                    <h2>Order History</h2>
+                    <div class="orders-list">
+                        <!-- Orders will be dynamically added here -->
+                        <div class="empty-orders">
+                            <i class="fas fa-shopping-bag"></i>
+                            <p>No orders yet</p>
+                            <a href="menu.php" class="cta-button">Start Ordering</a>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- Addresses Section -->
+                <section id="addresses" class="account-section">
+                    <h2>Saved Addresses</h2>
+                    <div class="addresses-list">
+                        <!-- Addresses will be dynamically added here -->
+                        <div class="empty-addresses">
+                            <i class="fas fa-map-marker-alt"></i>
+                            <p>No saved addresses</p>
+                            <button class="add-address-btn">Add New Address</button>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- Settings Section -->
+                <section id="settings" class="account-section">
+                    <h2>Account Settings</h2>
+                    <form id="settingsForm" class="account-form">
+                        <div class="form-group">
+                            <label for="currentPassword">Current Password</label>
+                            <input type="password" id="currentPassword" name="currentPassword">
+                        </div>
+                        <div class="form-group">
+                            <label for="newPassword">New Password</label>
+                            <input type="password" id="newPassword" name="newPassword">
+                        </div>
+                        <div class="form-group">
+                            <label for="confirmPassword">Confirm New Password</label>
+                            <input type="password" id="confirmPassword" name="confirmPassword">
+                        </div>
+                        <div class="form-group">
+                            <label for="notifications">Email Notifications</label>
+                            <div class="toggle-switch">
+                                <input type="checkbox" id="notifications" name="notifications" checked>
+                                <span class="toggle-slider"></span>
+                            </div>
+                        </div>
+                        <button type="submit" class="save-btn">Save Changes</button>
+                    </form>
+                </section>
+            </div>
+        </div>
+    </main>
+
+    <footer class="footer">
+        <div class="footer-content">
+            <div class="footer-section">
+                <h3>Contact Us</h3>
+                <p>Email: info@localfavors.com</p>
+                <p>Phone: (02) 123-4567</p>
+            </div>
+            <div class="footer-section">
+                <h3>Follow Us</h3>
+                <div class="social-links">
+                    <a href="#"><i class="fab fa-facebook"></i></a>
+                    <a href="#"><i class="fab fa-instagram"></i></a>
+                    <a href="#"><i class="fab fa-twitter"></i></a>
+                </div>
+            </div>
+            <div class="footer-section">
+                <h3>Hours</h3>
+                <p>Monday - Sunday</p>
+                <p>8:00 AM - 9:00 PM</p>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; 2024 Local Flavors. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script src="js/main.js"></script>
+    <script src="js/account.js"></script>
+    <script src="js/header.js"></script>
+</body>
+</html>

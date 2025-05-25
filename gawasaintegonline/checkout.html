@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Local Flavors at Your Fingertips - Checkout</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="css/checkout.css">
+    <link rel="stylesheet" href="css/cart-sync.css">
+    <link rel="stylesheet" href="css/paymongo.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <header class="header">
+        <nav class="nav-container">
+            <div class="logo">
+                <a href="index.html" style="display: flex; align-items: center;">
+                    <img src="assets/logo.png" alt="Local Flavors Logo" class="logo-image" style="margin-right: 10px;">
+                    <h1 style="margin: 0;">LOCAL FLAVORS</h1>
+                </a>
+            </div>
+            <div class="nav-links">
+                <a href="index.html">Home</a>
+                <a href="menu.php">Menu</a>
+                <a href="profile.php" class="account-link" id="accountLink">Account</a>
+                <a href="cart.html" class="cart-icon">
+                    <i class="fas fa-shopping-cart"></i>
+                    <span class="cart-count">0</span>
+                </a>
+                <div class="auth-links" id="authLinks">
+                    <a href="login.php" class="login-link">Login</a>
+                    <a href="register.php" class="register-link">Register</a>
+                </div>
+            </div>
+            <button class="mobile-menu-btn">
+                <i class="fas fa-bars"></i>
+            </button>
+        </nav>
+    </header>
+
+    <main class="checkout-main">
+        <div class="checkout-container">
+            <h1>Checkout</h1>
+            
+            <div class="checkout-grid">
+                <div class="checkout-form">
+                    <h2>Delivery Information</h2>
+                    <form id="deliveryForm">
+                        <div class="form-group">
+                            <label for="name">Full Name</label>
+                            <input type="text" id="name" name="name" required>
+                        </div>
+                        
+                        <div class="form-group">
+                            <label for="phone">Phone Number</label>
+                            <input type="tel" id="phone" name="phone" required>
+                        </div>
+                        
+                        <div class="form-group">
+                            <label for="email">Email</label>
+                            <input type="email" id="email" name="email" required>
+                        </div>
+                        
+                        <div class="form-group">
+                            <label for="address">Delivery Address</label>
+                            <textarea id="address" name="address" required></textarea>
+                        </div>
+                        
+                        <div class="form-group">
+                            <label for="instructions">Delivery Instructions (Optional)</label>
+                            <textarea id="instructions" name="instructions"></textarea>
+                        </div>
+
+                        <h2>Delivery Method</h2>
+                        <div class="delivery-options">
+                            <label class="delivery-option">
+                                <input type="radio" name="delivery" value="delivery" checked>
+                                <span>Delivery</span>
+                            </label>
+                            <label class="delivery-option">
+                                <input type="radio" name="delivery" value="pickup">
+                                <span>Pickup</span>
+                            </label>
+                        </div>
+
+                        <h2>Payment Method</h2>
+                        <div class="payment-options">
+                            <label class="payment-option">
+                                <input type="radio" name="payment" value="cod" checked>
+                                <span>Cash on Delivery</span>
+                            </label>
+                            
+                            <!-- PayMongo Payment Options -->
+                            <div class="paymongo-options">
+                                <h3>Online Payment Options</h3>
+                                <p class="paymongo-note">Powered by PayMongo</p>
+                                
+                                <label class="payment-option paymongo-option">
+                                    <input type="radio" name="payment" value="paymongo_gcash">
+                                    <img src="assets/gcash-logo.png" alt="GCash" onerror="this.src='https://assets-global.website-files.com/60802d058cdaebf2bd7c4474/60802d058cdaeb25bf7c467c_GCash.png'; this.onerror='';">
+                                    <span>GCash</span>
+                                </label>
+                                
+                                <label class="payment-option paymongo-option">
+                                    <input type="radio" name="payment" value="paymongo_card">
+                                    <img src="assets/credit-card.png" alt="Credit/Debit Card" onerror="this.src='https://cdn-icons-png.flaticon.com/512/179/179457.png'; this.onerror='';">
+                                    <span>Credit/Debit Card</span>
+                                </label>
+                                
+                                <label class="payment-option paymongo-option">
+                                    <input type="radio" name="payment" value="paymongo_dob">
+                                    <img src="assets/online-banking.png" alt="Online Banking" onerror="this.src='https://cdn-icons-png.flaticon.com/512/6358/6358082.png'; this.onerror='';">
+                                    <span>Online Banking</span>
+                                </label>
+                            </div>
+                        </div>
+                        
+                        <!-- PayMongo payment description -->
+                        <div class="payment-description" id="paymentDescription">
+                            <p>You'll complete your payment securely on the PayMongo checkout page after placing your order.</p>
+                        </div>
+
+                        <div class="form-group promo-code">
+                            <label for="promo">Promo Code (Optional)</label>
+                            <div class="promo-input">
+                                <input type="text" id="promo" name="promo">
+                                <button type="button" class="apply-promo">Apply</button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+
+                <div class="order-summary">
+                    <h2>Order Summary</h2>
+                    <div class="order-items">
+                        <!-- Order items will be dynamically added here -->
+                    </div>
+                    
+                    <div class="summary-details">
+                        <div class="summary-item">
+                            <span>Subtotal</span>
+                            <span class="subtotal">₱0.00</span>
+                        </div>
+                        <div class="summary-item">
+                            <span>Delivery Fee</span>
+                            <span class="delivery-fee">₱50.00</span>
+                        </div>
+                        <div class="summary-item promo-discount" style="display: none;">
+                            <span>Promo Discount</span>
+                            <span class="discount-amount">-₱0.00</span>
+                        </div>
+                        <div class="summary-item total">
+                            <span>Total</span>
+                            <span class="total-amount">₱0.00</span>
+                        </div>
+                    </div>
+
+                    <button type="submit" form="deliveryForm" class="place-order-btn">Place Order</button>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <!-- Payment Transaction Modal -->
+    <div class="payment-modal" id="paymentModal">
+        <div class="payment-modal-content">
+            <div class="payment-header">
+                <h2>Processing Payment</h2>
+                <div class="payment-method-icon">
+                    <i class="fas fa-credit-card"></i>
+                </div>
+            </div>
+            <div class="payment-status">
+                <div class="status-icon">
+                    <i class="fas fa-spinner fa-spin"></i>
+                </div>
+                <p class="status-message">Please wait while we process your payment...</p>
+            </div>
+            <div class="payment-details">
+                <div class="detail-item">
+                    <span>Payment Method:</span>
+                    <span id="selectedPaymentMethod">Cash on Delivery</span>
+                </div>
+                <div class="detail-item">
+                    <span>Amount:</span>
+                    <span id="paymentAmount">₱0.00</span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer class="footer">
+        <div class="footer-content">
+            <div class="footer-section">
+                <h3>Contact Us</h3>
+                <p>Email: info@localfavors.com</p>
+                <p>Phone: (02) 123-4567</p>
+            </div>
+            <div class="footer-section">
+                <h3>Follow Us</h3>
+                <div class="social-links">
+                    <a href="#"><i class="fab fa-facebook"></i></a>
+                    <a href="#"><i class="fab fa-instagram"></i></a>
+                    <a href="#"><i class="fab fa-twitter"></i></a>
+                </div>
+            </div>
+            <div class="footer-section">
+                <h3>Hours</h3>
+                <p>Monday - Sunday</p>
+                <p>8:00 AM - 9:00 PM</p>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; 2024 Local Flavors. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script src="js/main.js"></script>
+    <script src="js/checkout.js"></script>
+    <script src="js/paymongo-checkout.js"></script>
+    <script src="js/header.js"></script>
+</body>
+</html>

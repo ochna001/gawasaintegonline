@@ -1,0 +1,4961 @@
+
+
+========= CART SYNC START: 2025-05-25 10:04:06 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 10
+            [name] => Fresh Buko Juice
+            [price] => 60
+            [display_price] => 60.00
+            [quantity] => 1
+            [image] => assets/bukojuice.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=10, quantity=1, price=60
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 10:08:37 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 10
+            [name] => Fresh Buko Juice
+            [price] => 60
+            [display_price] => 60.00
+            [quantity] => 1
+            [image] => assets/bukojuice.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=10, quantity=1, price=60
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 10:09:17 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 10
+            [name] => Fresh Buko Juice
+            [price] => 60
+            [display_price] => 60.00
+            [quantity] => 1
+            [image] => assets/bukojuice.jpg
+        )
+
+    [1] => Array
+        (
+            [product_id] => 9
+            [name] => Sago't Gulaman
+            [price] => 50
+            [display_price] => 50.00
+            [quantity] => 1
+            [image] => assets/sagotgulaman.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=10, quantity=1, price=60
+Successfully added item 0 to cart
+Item 1: product_id=9, quantity=1, price=50
+Successfully added item 1 to cart
+Transaction committed successfully
+Verification: Found 2 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 10:17:34 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 9
+            [name] => Sago't Gulaman
+            [price] => 50
+            [display_price] => 50.00
+            [quantity] => 1
+            [image] => assets/sagotgulaman.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=9, quantity=1, price=50
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 10:17:35 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 9
+            [name] => Sago't Gulaman
+            [price] => 50
+            [display_price] => 50.00
+            [quantity] => 1
+            [image] => assets/sagotgulaman.jpg
+        )
+
+    [1] => Array
+        (
+            [product_id] => 9
+            [name] => Sago't Gulaman
+            [price] => 50
+            [display_price] => 50.00
+            [quantity] => 1
+            [image] => assets/sagotgulaman.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=9, quantity=1, price=50
+Successfully added item 0 to cart
+Item 1: product_id=9, quantity=1, price=50
+Successfully added item 1 to cart
+Transaction committed successfully
+Verification: Found 2 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 10:35:31 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 9
+            [name] => Sago't Gulaman
+            [price] => 50
+            [display_price] => 50.00
+            [quantity] => 1
+            [image] => assets/sagotgulaman.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=9, quantity=1, price=50
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 10:44:02 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 9
+            [name] => Sago't Gulaman
+            [price] => 50
+            [display_price] => 50.00
+            [quantity] => 1
+            [image] => assets/sagotgulaman.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=9, quantity=1, price=50
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 10:44:14 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 10
+            [name] => Fresh Buko Juice
+            [price] => 60
+            [display_price] => 60.00
+            [quantity] => 1
+            [image] => assets/bukojuice.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=10, quantity=1, price=60
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 10:44:18 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 10
+            [name] => Fresh Buko Juice
+            [price] => 60
+            [display_price] => 60.00
+            [quantity] => 1
+            [image] => assets/bukojuice.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=10, quantity=1, price=60
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 10:44:23 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 8
+            [name] => Leche Flan
+            [price] => 80
+            [display_price] => 80.00
+            [quantity] => 1
+            [image] => assets/lecheflan.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=8, quantity=1, price=80
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 10:44:25 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 8
+            [name] => Leche Flan
+            [price] => 80
+            [display_price] => 80.00
+            [quantity] => 1
+            [image] => assets/lecheflan.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=8, quantity=1, price=80
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 10:44:39 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 8
+            [name] => Leche Flan
+            [price] => 80
+            [display_price] => 80.00
+            [quantity] => 1
+            [image] => assets/lecheflan.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=8, quantity=1, price=80
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 10:58:28 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 8
+            [name] => Leche Flan
+            [price] => 80
+            [quantity] => 1
+            [image] => assets/lecheflan.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=8, quantity=1, price=80
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 10:59:05 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 8
+            [name] => Leche Flan
+            [price] => 80
+            [quantity] => 1
+            [image] => assets/lecheflan.jpg
+        )
+
+    [1] => Array
+        (
+            [product_id] => 7
+            [name] => Halo-Halo
+            [price] => 90
+            [display_price] => 90.00
+            [quantity] => 1
+            [image] => assets/halohalo.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=8, quantity=1, price=80
+Successfully added item 0 to cart
+Item 1: product_id=7, quantity=1, price=90
+Successfully added item 1 to cart
+Transaction committed successfully
+Verification: Found 2 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 10:59:12 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 8
+            [name] => Leche Flan
+            [price] => 80
+            [quantity] => 1
+            [image] => assets/lecheflan.jpg
+        )
+
+    [1] => Array
+        (
+            [product_id] => 7
+            [name] => Halo-Halo
+            [price] => 90
+            [quantity] => 1
+            [image] => assets/halohalo.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=8, quantity=1, price=80
+Successfully added item 0 to cart
+Item 1: product_id=7, quantity=1, price=90
+Successfully added item 1 to cart
+Transaction committed successfully
+Verification: Found 2 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 11:01:27 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 8
+            [name] => Leche Flan
+            [price] => 80
+            [quantity] => 1
+            [image] => assets/lecheflan.jpg
+        )
+
+    [1] => Array
+        (
+            [product_id] => 7
+            [name] => Halo-Halo
+            [price] => 90
+            [quantity] => 1
+            [image] => assets/halohalo.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=8, quantity=1, price=80
+Successfully added item 0 to cart
+Item 1: product_id=7, quantity=1, price=90
+Successfully added item 1 to cart
+Transaction committed successfully
+Verification: Found 2 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 11:10:19 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 8
+            [name] => Leche Flan
+            [price] => 80
+            [quantity] => 1
+            [image] => assets/lecheflan.jpg
+        )
+
+    [1] => Array
+        (
+            [product_id] => 7
+            [name] => Halo-Halo
+            [price] => 90
+            [quantity] => 1
+            [image] => assets/halohalo.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=8, quantity=1, price=80
+Successfully added item 0 to cart
+Item 1: product_id=7, quantity=1, price=90
+Successfully added item 1 to cart
+Transaction committed successfully
+Verification: Found 2 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 11:16:09 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 1
+            [name] => Tapsilog
+            [price] => 120
+            [display_price] => 120.00
+            [quantity] => 1
+            [image] => assets/tapsilog.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=1, quantity=1, price=120
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 11:16:11 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 1
+            [name] => Tapsilog
+            [price] => 120
+            [display_price] => 120.00
+            [quantity] => 1
+            [image] => assets/tapsilog.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=1, quantity=1, price=120
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 11:16:12 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 1
+            [name] => Tapsilog
+            [price] => 120
+            [display_price] => 120.00
+            [quantity] => 1
+            [image] => assets/tapsilog.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=1, quantity=1, price=120
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 14:03:26 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [id] => 1748174605046
+            [name] => Pork Sinigang
+            [price] => 180
+            [quantity] => 1
+            [image] => http://localhost/gawasainteg/assets/product-2.jpg
+            [product_id] => 0
+            [total] => 180
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=0, quantity=1, price=180
+WARNING: Invalid product_id for item 0
+Transaction committed successfully
+Verification: Found 0 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 14:03:28 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [id] => 1748174605046
+            [name] => Pork Sinigang
+            [price] => 180
+            [quantity] => 1
+            [image] => http://localhost/gawasainteg/assets/product-2.jpg
+            [product_id] => 0
+            [total] => 180
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=0, quantity=1, price=180
+WARNING: Invalid product_id for item 0
+Transaction committed successfully
+Verification: Found 0 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 14:25:53 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [id] => 1748174605046
+            [name] => Pork Sinigang
+            [price] => 180
+            [quantity] => 1
+            [image] => http://localhost/gawasainteg/assets/product-2.jpg
+            [product_id] => 0
+            [total] => 180
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=0, quantity=1, price=180
+WARNING: Invalid product_id for item 0
+Transaction committed successfully
+Verification: Found 0 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 14:27:30 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [id] => 1748174605046
+            [name] => Pork Sinigang
+            [price] => 180
+            [quantity] => 1
+            [image] => http://localhost/gawasainteg/assets/product-2.jpg
+            [product_id] => 0
+            [total] => 180
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=0, quantity=1, price=180
+WARNING: Invalid product_id for item 0
+Transaction committed successfully
+Verification: Found 0 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 14:27:48 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 9
+            [name] => Sago't Gulaman
+            [price] => 50
+            [display_price] => 50.00
+            [quantity] => 1
+            [image] => assets/sagotgulaman.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=9, quantity=1, price=50
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 14:27:50 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 9
+            [name] => Sago't Gulaman
+            [price] => 50
+            [display_price] => 50.00
+            [quantity] => 1
+            [image] => assets/sagotgulaman.jpg
+        )
+
+    [1] => Array
+        (
+            [product_id] => 9
+            [name] => Sago't Gulaman
+            [price] => 50
+            [display_price] => 50.00
+            [quantity] => 1
+            [image] => assets/sagotgulaman.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=9, quantity=1, price=50
+Successfully added item 0 to cart
+Item 1: product_id=9, quantity=1, price=50
+Successfully added item 1 to cart
+Transaction committed successfully
+Verification: Found 2 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 14:27:52 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 9
+            [name] => Sago't Gulaman
+            [price] => 50
+            [display_price] => 50.00
+            [quantity] => 1
+            [image] => assets/sagotgulaman.jpg
+        )
+
+    [1] => Array
+        (
+            [product_id] => 9
+            [name] => Sago't Gulaman
+            [price] => 50
+            [display_price] => 50.00
+            [quantity] => 1
+            [image] => assets/sagotgulaman.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=9, quantity=1, price=50
+Successfully added item 0 to cart
+Item 1: product_id=9, quantity=1, price=50
+Successfully added item 1 to cart
+Transaction committed successfully
+Verification: Found 2 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 14:28:16 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 9
+            [name] => Sago't Gulaman
+            [price] => 50
+            [display_price] => 50.00
+            [quantity] => 1
+            [image] => assets/sagotgulaman.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=9, quantity=1, price=50
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 14:57:23 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [id] => 1748177841667
+            [name] => Kare-Kare
+            [price] => 200
+            [quantity] => 1
+            [image] => http://localhost/gawasainteg/assets/product-3.jpg
+            [product_id] => 0
+            [total] => 200
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=0, quantity=1, price=200
+WARNING: Invalid product_id for item 0
+Transaction committed successfully
+Verification: Found 0 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 14:57:24 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [id] => 1748177841667
+            [name] => Kare-Kare
+            [price] => 200
+            [quantity] => 1
+            [image] => http://localhost/gawasainteg/assets/product-3.jpg
+            [product_id] => 0
+            [total] => 200
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=0, quantity=1, price=200
+WARNING: Invalid product_id for item 0
+Transaction committed successfully
+Verification: Found 0 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 14:58:54 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [id] => 1748177841667
+            [name] => Kare-Kare
+            [price] => 200
+            [quantity] => 1
+            [image] => http://localhost/gawasainteg/assets/product-3.jpg
+            [product_id] => 0
+            [total] => 200
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=0, quantity=1, price=200
+WARNING: Invalid product_id for item 0
+Transaction committed successfully
+Verification: Found 0 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 15:08:31 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [id] => 1748177841667
+            [name] => Kare-Kare
+            [price] => 200
+            [quantity] => 1
+            [image] => http://localhost/gawasainteg/assets/product-3.jpg
+            [product_id] => 0
+            [total] => 200
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=0, quantity=1, price=200
+WARNING: Invalid product_id for item 0
+Transaction committed successfully
+Verification: Found 0 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 15:08:40 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [id] => 1748178518397
+            [name] => Pork Sinigang
+            [price] => 180
+            [quantity] => 1
+            [image] => http://localhost/gawasainteg/assets/product-2.jpg
+            [product_id] => 0
+            [total] => 180
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=0, quantity=1, price=180
+WARNING: Invalid product_id for item 0
+Transaction committed successfully
+Verification: Found 0 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 15:08:42 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [id] => 1748178518397
+            [name] => Pork Sinigang
+            [price] => 180
+            [quantity] => 1
+            [image] => http://localhost/gawasainteg/assets/product-2.jpg
+            [product_id] => 0
+            [total] => 180
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=0, quantity=1, price=180
+WARNING: Invalid product_id for item 0
+Transaction committed successfully
+Verification: Found 0 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 15:13:21 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [id] => 1748178518397
+            [name] => Pork Sinigang
+            [price] => 180
+            [quantity] => 1
+            [image] => http://localhost/gawasainteg/assets/product-2.jpg
+            [product_id] => 0
+            [total] => 180
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=0, quantity=1, price=180
+WARNING: Invalid product_id for item 0
+Transaction committed successfully
+Verification: Found 0 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 15:14:32 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [id] => 1748178518397
+            [name] => Pork Sinigang
+            [price] => 180
+            [quantity] => 1
+            [image] => http://localhost/gawasainteg/assets/product-2.jpg
+            [product_id] => 0
+            [total] => 180
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=0, quantity=1, price=180
+WARNING: Invalid product_id for item 0
+Transaction committed successfully
+Verification: Found 0 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 15:15:34 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [id] => 1748178931716
+            [name] => Pork Sinigang
+            [price] => 180
+            [quantity] => 1
+            [image] => http://localhost/gawasainteg/assets/product-2.jpg
+            [product_id] => 0
+            [total] => 180
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=0, quantity=1, price=180
+WARNING: Invalid product_id for item 0
+Transaction committed successfully
+Verification: Found 0 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 15:24:09 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [id] => 1748178931716
+            [name] => Pork Sinigang
+            [price] => 180
+            [quantity] => 1
+            [image] => http://localhost/gawasainteg/assets/product-2.jpg
+            [product_id] => 0
+            [total] => 180
+        )
+
+    [1] => Array
+        (
+            [id] => 1748178949655
+            [name] => Chicken Adobo
+            [price] => 150
+            [quantity] => 1
+            [image] => http://localhost/gawasainteg/assets/product-1.jpg
+            [product_id] => 0
+            [total] => 150
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=0, quantity=1, price=180
+WARNING: Invalid product_id for item 0
+Item 1: product_id=0, quantity=1, price=150
+WARNING: Invalid product_id for item 1
+Transaction committed successfully
+Verification: Found 0 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 15:24:10 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [id] => 1748178931716
+            [name] => Pork Sinigang
+            [price] => 180
+            [quantity] => 1
+            [image] => http://localhost/gawasainteg/assets/product-2.jpg
+            [product_id] => 0
+            [total] => 180
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=0, quantity=1, price=180
+WARNING: Invalid product_id for item 0
+Transaction committed successfully
+Verification: Found 0 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 15:25:34 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 4
+            [name] => Sinigang na Baboy
+            [price] => 180
+            [display_price] => 180.00
+            [quantity] => 1
+            [image] => assets/product-2.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=4, quantity=1, price=180
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 15:27:39 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 4
+            [name] => Sinigang na Baboy
+            [price] => 180
+            [display_price] => 180.00
+            [quantity] => 1
+            [image] => assets/product-2.jpg
+        )
+
+    [1] => Array
+        (
+            [product_id] => 5
+            [name] => Kare-Kare
+            [price] => 200
+            [display_price] => 200.00
+            [quantity] => 1
+            [image] => assets/product-3.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=4, quantity=1, price=180
+Successfully added item 0 to cart
+Item 1: product_id=5, quantity=1, price=200
+Successfully added item 1 to cart
+Transaction committed successfully
+Verification: Found 2 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 15:27:45 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [name] => Sinigang na Baboy
+            [price] => 180
+            [image] => http://localhost/gawasainteg/assets/product-2.jpg
+            [product_id] => 4
+            [quantity] => 1
+        )
+
+    [1] => Array
+        (
+            [product_id] => 4
+            [name] => Sinigang na Baboy
+            [price] => 180
+            [display_price] => 180.00
+            [quantity] => 1
+            [image] => assets/product-2.jpg
+        )
+
+    [2] => Array
+        (
+            [name] => Kare-Kare
+            [price] => 200
+            [image] => http://localhost/gawasainteg/assets/product-3.jpg
+            [product_id] => 5
+            [quantity] => 1
+        )
+
+    [3] => Array
+        (
+            [product_id] => 5
+            [name] => Kare-Kare
+            [price] => 200
+            [display_price] => 200.00
+            [quantity] => 1
+            [image] => assets/product-3.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=4, quantity=1, price=180
+Successfully added item 0 to cart
+Item 1: product_id=4, quantity=1, price=180
+Successfully added item 1 to cart
+Item 2: product_id=5, quantity=1, price=200
+Successfully added item 2 to cart
+Item 3: product_id=5, quantity=1, price=200
+Successfully added item 3 to cart
+Transaction committed successfully
+Verification: Found 4 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 15:27:46 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 4
+            [name] => Sinigang na Baboy
+            [price] => 180
+            [display_price] => 180.00
+            [quantity] => 1
+            [image] => assets/product-2.jpg
+        )
+
+    [1] => Array
+        (
+            [name] => Kare-Kare
+            [price] => 200
+            [image] => http://localhost/gawasainteg/assets/product-3.jpg
+            [quantity] => 1
+            [product_id] => 5
+        )
+
+    [2] => Array
+        (
+            [product_id] => 5
+            [name] => Kare-Kare
+            [price] => 200
+            [display_price] => 200.00
+            [quantity] => 1
+            [image] => assets/product-3.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=4, quantity=1, price=180
+Successfully added item 0 to cart
+Item 1: product_id=5, quantity=1, price=200
+Successfully added item 1 to cart
+Item 2: product_id=5, quantity=1, price=200
+Successfully added item 2 to cart
+Transaction committed successfully
+Verification: Found 3 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 15:27:47 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [name] => Kare-Kare
+            [price] => 200
+            [image] => http://localhost/gawasainteg/assets/product-3.jpg
+            [quantity] => 1
+            [product_id] => 5
+        )
+
+    [1] => Array
+        (
+            [product_id] => 5
+            [name] => Kare-Kare
+            [price] => 200
+            [display_price] => 200.00
+            [quantity] => 1
+            [image] => assets/product-3.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=5, quantity=1, price=200
+Successfully added item 0 to cart
+Item 1: product_id=5, quantity=1, price=200
+Successfully added item 1 to cart
+Transaction committed successfully
+Verification: Found 2 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 15:27:48 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 5
+            [name] => Kare-Kare
+            [price] => 200
+            [display_price] => 200.00
+            [quantity] => 1
+            [image] => assets/product-3.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=5, quantity=1, price=200
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 15:27:53 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 3
+            [name] => Chicken Adobo
+            [price] => 150
+            [display_price] => 150.00
+            [quantity] => 1
+            [image] => assets/product-1.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=3, quantity=1, price=150
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 15:28:10 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [name] => Chicken Adobo
+            [price] => 150
+            [image] => http://localhost/gawasainteg/assets/product-1.jpg
+            [product_id] => 3
+            [quantity] => 1
+        )
+
+    [1] => Array
+        (
+            [product_id] => 3
+            [name] => Chicken Adobo
+            [price] => 150
+            [display_price] => 150.00
+            [quantity] => 1
+            [image] => assets/product-1.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=3, quantity=1, price=150
+Successfully added item 0 to cart
+Item 1: product_id=3, quantity=1, price=150
+Successfully added item 1 to cart
+Transaction committed successfully
+Verification: Found 2 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 15:28:19 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 5
+            [name] => Kare-Kare
+            [price] => 200
+            [display_price] => 200.00
+            [quantity] => 1
+            [image] => assets/product-3.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=5, quantity=1, price=200
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 15:28:20 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [name] => Kare-Kare
+            [price] => 200
+            [image] => http://localhost/gawasainteg/assets/product-3.jpg
+            [product_id] => 5
+            [quantity] => 1
+        )
+
+    [1] => Array
+        (
+            [product_id] => 5
+            [name] => Kare-Kare
+            [price] => 200
+            [display_price] => 200.00
+            [quantity] => 1
+            [image] => assets/product-3.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=5, quantity=1, price=200
+Successfully added item 0 to cart
+Item 1: product_id=5, quantity=1, price=200
+Successfully added item 1 to cart
+Transaction committed successfully
+Verification: Found 2 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 15:31:35 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 5
+            [name] => Kare-Kare
+            [price] => 200
+            [quantity] => 1
+            [image] => assets/product-3.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=5, quantity=1, price=200
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 15:34:58 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 4
+            [name] => Sinigang na Baboy
+            [price] => 180
+            [display_price] => 180.00
+            [quantity] => 1
+            [image] => assets/product-2.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=4, quantity=1, price=180
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 15:35:02 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [name] => Sinigang na Baboy
+            [price] => 180
+            [image] => http://localhost/gawasainteg/assets/product-2.jpg
+            [product_id] => 4
+            [quantity] => 1
+        )
+
+    [1] => Array
+        (
+            [product_id] => 4
+            [name] => Sinigang na Baboy
+            [price] => 180
+            [display_price] => 180.00
+            [quantity] => 1
+            [image] => assets/product-2.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=4, quantity=1, price=180
+Successfully added item 0 to cart
+Item 1: product_id=4, quantity=1, price=180
+Successfully added item 1 to cart
+Transaction committed successfully
+Verification: Found 2 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 15:35:03 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 4
+            [name] => Sinigang na Baboy
+            [price] => 180
+            [display_price] => 180.00
+            [quantity] => 1
+            [image] => assets/product-2.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=4, quantity=1, price=180
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 15:35:07 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 2
+            [name] => Longsilog
+            [price] => 110
+            [display_price] => 110.00
+            [quantity] => 1
+            [image] => assets/longsilog.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=2, quantity=1, price=110
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 15:35:09 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 2
+            [name] => Longsilog
+            [price] => 110
+            [display_price] => 110.00
+            [quantity] => 1
+            [image] => assets/longsilog.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=2, quantity=1, price=110
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 15:35:15 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 4
+            [name] => Sinigang na Baboy
+            [price] => 180
+            [display_price] => 180.00
+            [quantity] => 1
+            [image] => assets/product-2.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=4, quantity=1, price=180
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 15:39:01 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [name] => Sinigang na Baboy
+            [price] => 180
+            [image] => http://localhost/gawasainteg/assets/product-2.jpg
+            [product_id] => 4
+            [quantity] => 1
+        )
+
+    [1] => Array
+        (
+            [product_id] => 4
+            [name] => Sinigang na Baboy
+            [price] => 180
+            [display_price] => 180.00
+            [quantity] => 1
+            [image] => assets/product-2.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=4, quantity=1, price=180
+Successfully added item 0 to cart
+Item 1: product_id=4, quantity=1, price=180
+Successfully added item 1 to cart
+Transaction committed successfully
+Verification: Found 2 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 15:39:02 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 4
+            [name] => Sinigang na Baboy
+            [price] => 180
+            [display_price] => 180.00
+            [quantity] => 1
+            [image] => assets/product-2.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=4, quantity=1, price=180
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 15:39:10 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 4
+            [name] => Sinigang na Baboy
+            [price] => 180
+            [display_price] => 180.00
+            [quantity] => 1
+            [image] => assets/product-2.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=4, quantity=1, price=180
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 15:39:13 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [name] => Sinigang na Baboy
+            [price] => 180
+            [image] => http://localhost/gawasainteg/assets/product-2.jpg
+            [product_id] => 4
+            [quantity] => 1
+        )
+
+    [1] => Array
+        (
+            [product_id] => 4
+            [name] => Sinigang na Baboy
+            [price] => 180
+            [display_price] => 180.00
+            [quantity] => 1
+            [image] => assets/product-2.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=4, quantity=1, price=180
+Successfully added item 0 to cart
+Item 1: product_id=4, quantity=1, price=180
+Successfully added item 1 to cart
+Transaction committed successfully
+Verification: Found 2 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 15:39:21 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 5
+            [name] => Kare-Kare
+            [price] => 200
+            [display_price] => 200.00
+            [quantity] => 1
+            [image] => assets/product-3.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=5, quantity=1, price=200
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 15:39:21 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [name] => Kare-Kare
+            [price] => 200
+            [image] => http://localhost/gawasainteg/assets/product-3.jpg
+            [product_id] => 5
+            [quantity] => 1
+        )
+
+    [1] => Array
+        (
+            [product_id] => 5
+            [name] => Kare-Kare
+            [price] => 200
+            [display_price] => 200.00
+            [quantity] => 1
+            [image] => assets/product-3.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=5, quantity=1, price=200
+Successfully added item 0 to cart
+Item 1: product_id=5, quantity=1, price=200
+Successfully added item 1 to cart
+Transaction committed successfully
+Verification: Found 2 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 15:39:22 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 5
+            [name] => Kare-Kare
+            [price] => 200
+            [display_price] => 200.00
+            [quantity] => 1
+            [image] => assets/product-3.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=5, quantity=1, price=200
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 15:40:37 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 5
+            [name] => Kare-Kare
+            [price] => 200
+            [display_price] => 200.00
+            [quantity] => 1
+            [image] => assets/product-3.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=5, quantity=1, price=200
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 15:41:06 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [name] => Kare-Kare
+            [price] => 200
+            [image] => http://localhost/gawasainteg/assets/product-3.jpg
+            [product_id] => 5
+            [quantity] => 1
+        )
+
+    [1] => Array
+        (
+            [product_id] => 5
+            [name] => Kare-Kare
+            [price] => 200
+            [display_price] => 200.00
+            [quantity] => 1
+            [image] => assets/product-3.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=5, quantity=1, price=200
+Successfully added item 0 to cart
+Item 1: product_id=5, quantity=1, price=200
+Successfully added item 1 to cart
+Transaction committed successfully
+Verification: Found 2 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 15:42:27 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 3
+            [name] => Chicken Adobo
+            [price] => 150
+            [display_price] => 150.00
+            [quantity] => 1
+            [image] => assets/product-1.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=3, quantity=1, price=150
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 15:42:29 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [name] => Chicken Adobo
+            [price] => 150
+            [image] => http://localhost/gawasainteg/assets/product-1.jpg
+            [product_id] => 3
+            [quantity] => 1
+        )
+
+    [1] => Array
+        (
+            [product_id] => 3
+            [name] => Chicken Adobo
+            [price] => 150
+            [display_price] => 150.00
+            [quantity] => 1
+            [image] => assets/product-1.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=3, quantity=1, price=150
+Successfully added item 0 to cart
+Item 1: product_id=3, quantity=1, price=150
+Successfully added item 1 to cart
+Transaction committed successfully
+Verification: Found 2 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 15:42:30 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 3
+            [name] => Chicken Adobo
+            [price] => 150
+            [display_price] => 150.00
+            [quantity] => 1
+            [image] => assets/product-1.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=3, quantity=1, price=150
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 15:44:16 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 4
+            [name] => Sinigang na Baboy
+            [price] => 180
+            [display_price] => 180.00
+            [quantity] => 1
+            [image] => assets/product-2.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=4, quantity=1, price=180
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 15:44:22 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 4
+            [name] => Sinigang na Baboy
+            [price] => 180
+            [display_price] => 180.00
+            [quantity] => 1
+            [image] => assets/product-2.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=4, quantity=1, price=180
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 15:44:34 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 3
+            [name] => Chicken Adobo
+            [price] => 150
+            [display_price] => 150.00
+            [quantity] => 1
+            [image] => assets/product-1.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=3, quantity=1, price=150
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 15:45:22 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 3
+            [name] => Chicken Adobo
+            [price] => 150
+            [display_price] => 150.00
+            [quantity] => 1
+            [image] => assets/product-1.jpg
+        )
+
+    [1] => Array
+        (
+            [name] => Chicken Adobo
+            [price] => 150
+            [image] => http://localhost/gawasainteg/assets/product-1.jpg
+            [product_id] => 3
+            [quantity] => 1
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=3, quantity=1, price=150
+Successfully added item 0 to cart
+Item 1: product_id=3, quantity=1, price=150
+Successfully added item 1 to cart
+Transaction committed successfully
+Verification: Found 2 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 15:45:46 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 3
+            [name] => Chicken Adobo
+            [price] => 150
+            [display_price] => 150.00
+            [quantity] => 1
+            [image] => assets/product-1.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=3, quantity=1, price=150
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 15:45:47 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [name] => Chicken Adobo
+            [price] => 150
+            [image] => http://localhost/gawasainteg/assets/product-1.jpg
+            [product_id] => 3
+            [quantity] => 1
+        )
+
+    [1] => Array
+        (
+            [product_id] => 3
+            [name] => Chicken Adobo
+            [price] => 150
+            [display_price] => 150.00
+            [quantity] => 1
+            [image] => assets/product-1.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=3, quantity=1, price=150
+Successfully added item 0 to cart
+Item 1: product_id=3, quantity=1, price=150
+Successfully added item 1 to cart
+Transaction committed successfully
+Verification: Found 2 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 15:45:48 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 3
+            [name] => Chicken Adobo
+            [price] => 150
+            [display_price] => 150.00
+            [quantity] => 1
+            [image] => assets/product-1.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=3, quantity=1, price=150
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 15:47:47 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 4
+            [name] => Sinigang na Baboy
+            [price] => 180
+            [display_price] => 180.00
+            [quantity] => 1
+            [image] => assets/product-2.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=4, quantity=1, price=180
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 15:49:05 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 4
+            [name] => Sinigang na Baboy
+            [price] => 180
+            [display_price] => 180.00
+            [quantity] => 1
+            [image] => assets/product-2.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=4, quantity=1, price=180
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 15:49:20 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 5
+            [name] => Kare-Kare
+            [price] => 200
+            [display_price] => 200.00
+            [quantity] => 1
+            [image] => assets/product-3.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=5, quantity=1, price=200
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 15:49:23 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 5
+            [name] => Kare-Kare
+            [price] => 200
+            [display_price] => 200.00
+            [quantity] => 1
+            [image] => assets/product-3.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=5, quantity=1, price=200
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 15:49:25 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 5
+            [name] => Kare-Kare
+            [price] => 200
+            [display_price] => 200.00
+            [quantity] => 1
+            [image] => assets/product-3.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=5, quantity=1, price=200
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 16:03:58 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 5
+            [name] => Kare-Kare
+            [price] => 200
+            [quantity] => 1
+            [image] => assets/product-3.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=5, quantity=1, price=200
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 16:32:41 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 5
+            [name] => Kare-Kare
+            [price] => 200
+            [quantity] => 1
+            [image] => assets/product-3.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=5, quantity=1, price=200
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 16:34:59 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 5
+            [name] => Kare-Kare
+            [price] => 200
+            [quantity] => 1
+            [image] => assets/product-3.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=5, quantity=1, price=200
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 16:35:18 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 10
+            [name] => Fresh Buko Juice
+            [price] => 60
+            [display_price] => 60.00
+            [quantity] => 1
+            [image] => assets/bukojuice.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=10, quantity=1, price=60
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 16:35:20 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 10
+            [name] => Fresh Buko Juice
+            [price] => 60
+            [display_price] => 60.00
+            [quantity] => 1
+            [image] => assets/bukojuice.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=10, quantity=1, price=60
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 16:35:21 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 10
+            [name] => Fresh Buko Juice
+            [price] => 60
+            [display_price] => 60.00
+            [quantity] => 1
+            [image] => assets/bukojuice.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=10, quantity=1, price=60
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 16:39:49 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 9
+            [name] => Sago't Gulaman
+            [price] => 50
+            [display_price] => 50.00
+            [quantity] => 1
+            [image] => assets/sagotgulaman.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=9, quantity=1, price=50
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 16:39:52 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 9
+            [name] => Sago't Gulaman
+            [price] => 50
+            [quantity] => 1
+            [image] => assets/sagotgulaman.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=9, quantity=1, price=50
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 17:43:40 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 9
+            [name] => Sago't Gulaman
+            [price] => 50
+            [quantity] => 1
+            [image] => assets/sagotgulaman.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=9, quantity=1, price=50
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 17:43:41 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 9
+            [name] => Sago't Gulaman
+            [price] => 50
+            [quantity] => 1
+            [image] => assets/sagotgulaman.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=9, quantity=1, price=50
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 17:44:16 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 7
+            [name] => Halo-Halo
+            [price] => 90
+            [display_price] => 90.00
+            [quantity] => 1
+            [image] => assets/halohalo.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=7, quantity=1, price=90
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 17:44:18 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 7
+            [name] => Halo-Halo
+            [price] => 90
+            [display_price] => 90.00
+            [quantity] => 1
+            [image] => assets/halohalo.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=7, quantity=1, price=90
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 17:44:19 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 7
+            [name] => Halo-Halo
+            [price] => 90
+            [display_price] => 90.00
+            [quantity] => 1
+            [image] => assets/halohalo.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=7, quantity=1, price=90
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 17:54:43 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 7
+            [name] => Halo-Halo
+            [price] => 90
+            [quantity] => 1
+            [image] => assets/halohalo.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=7, quantity=1, price=90
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 17:54:50 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 7
+            [name] => Halo-Halo
+            [price] => 90
+            [quantity] => 1
+            [image] => assets/halohalo.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=7, quantity=1, price=90
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 17:54:58 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 7
+            [name] => Halo-Halo
+            [price] => 90
+            [quantity] => 1
+            [image] => assets/halohalo.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=7, quantity=1, price=90
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 17:55:06 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 7
+            [name] => Halo-Halo
+            [price] => 90
+            [quantity] => 1
+            [image] => assets/halohalo.jpg
+        )
+
+    [1] => Array
+        (
+            [product_id] => 10
+            [name] => Fresh Buko Juice
+            [price] => 60
+            [display_price] => 60.00
+            [quantity] => 1
+            [image] => assets/bukojuice.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=7, quantity=1, price=90
+Successfully added item 0 to cart
+Item 1: product_id=10, quantity=1, price=60
+Successfully added item 1 to cart
+Transaction committed successfully
+Verification: Found 2 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 17:55:18 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 7
+            [name] => Halo-Halo
+            [price] => 90
+            [quantity] => 1
+            [image] => assets/halohalo.jpg
+        )
+
+    [1] => Array
+        (
+            [product_id] => 10
+            [name] => Fresh Buko Juice
+            [price] => 60
+            [quantity] => 1
+            [image] => assets/bukojuice.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=7, quantity=1, price=90
+Successfully added item 0 to cart
+Item 1: product_id=10, quantity=1, price=60
+Successfully added item 1 to cart
+Transaction committed successfully
+Verification: Found 2 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 17:55:28 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 7
+            [name] => Halo-Halo
+            [price] => 90
+            [quantity] => 1
+            [image] => assets/halohalo.jpg
+        )
+
+    [1] => Array
+        (
+            [product_id] => 10
+            [name] => Fresh Buko Juice
+            [price] => 60
+            [quantity] => 1
+            [image] => assets/bukojuice.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=7, quantity=1, price=90
+Successfully added item 0 to cart
+Item 1: product_id=10, quantity=1, price=60
+Successfully added item 1 to cart
+Transaction committed successfully
+Verification: Found 2 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 17:57:13 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 7
+            [name] => Halo-Halo
+            [price] => 90
+            [quantity] => 1
+            [image] => assets/halohalo.jpg
+        )
+
+    [1] => Array
+        (
+            [product_id] => 10
+            [name] => Fresh Buko Juice
+            [price] => 60
+            [quantity] => 1
+            [image] => assets/bukojuice.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=7, quantity=1, price=90
+Successfully added item 0 to cart
+Item 1: product_id=10, quantity=1, price=60
+Successfully added item 1 to cart
+Transaction committed successfully
+Verification: Found 2 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 17:57:25 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 7
+            [name] => Halo-Halo
+            [price] => 90
+            [quantity] => 1
+            [image] => assets/halohalo.jpg
+        )
+
+    [1] => Array
+        (
+            [product_id] => 10
+            [name] => Fresh Buko Juice
+            [price] => 60
+            [quantity] => 1
+            [image] => assets/bukojuice.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=7, quantity=1, price=90
+Successfully added item 0 to cart
+Item 1: product_id=10, quantity=1, price=60
+Successfully added item 1 to cart
+Transaction committed successfully
+Verification: Found 2 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 17:58:10 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 7
+            [name] => Halo-Halo
+            [price] => 90
+            [quantity] => 1
+            [image] => assets/halohalo.jpg
+        )
+
+    [1] => Array
+        (
+            [product_id] => 10
+            [name] => Fresh Buko Juice
+            [price] => 60
+            [quantity] => 1
+            [image] => assets/bukojuice.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=7, quantity=1, price=90
+Successfully added item 0 to cart
+Item 1: product_id=10, quantity=1, price=60
+Successfully added item 1 to cart
+Transaction committed successfully
+Verification: Found 2 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 17:58:26 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 7
+            [name] => Halo-Halo
+            [price] => 90
+            [quantity] => 1
+            [image] => assets/halohalo.jpg
+        )
+
+    [1] => Array
+        (
+            [product_id] => 10
+            [name] => Fresh Buko Juice
+            [price] => 60
+            [quantity] => 1
+            [image] => assets/bukojuice.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=7, quantity=1, price=90
+Successfully added item 0 to cart
+Item 1: product_id=10, quantity=1, price=60
+Successfully added item 1 to cart
+Transaction committed successfully
+Verification: Found 2 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 18:09:51 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 10
+            [name] => Fresh Buko Juice
+            [price] => 60
+            [display_price] => 60.00
+            [quantity] => 1
+            [image] => assets/bukojuice.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=10, quantity=1, price=60
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 18:09:54 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 10
+            [name] => Fresh Buko Juice
+            [price] => 60
+            [display_price] => 60.00
+            [quantity] => 1
+            [image] => assets/bukojuice.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=10, quantity=1, price=60
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 18:09:56 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 10
+            [name] => Fresh Buko Juice
+            [price] => 60
+            [display_price] => 60.00
+            [quantity] => 1
+            [image] => assets/bukojuice.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=10, quantity=1, price=60
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 18:20:00 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 10
+            [name] => Fresh Buko Juice
+            [price] => 60
+            [quantity] => 1
+            [image] => assets/bukojuice.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=10, quantity=1, price=60
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 18:20:24 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 3
+            [name] => Chicken Adobo
+            [price] => 150
+            [display_price] => 150.00
+            [quantity] => 1
+            [image] => assets/product-1.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=3, quantity=1, price=150
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 18:20:26 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 3
+            [name] => Chicken Adobo
+            [price] => 150
+            [display_price] => 150.00
+            [quantity] => 1
+            [image] => assets/product-1.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=3, quantity=1, price=150
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 18:20:28 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 3
+            [name] => Chicken Adobo
+            [price] => 150
+            [display_price] => 150.00
+            [quantity] => 1
+            [image] => assets/product-1.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=3, quantity=1, price=150
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 18:23:55 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 9
+            [name] => Sago't Gulaman
+            [price] => 50
+            [display_price] => 50.00
+            [quantity] => 1
+            [image] => assets/sagotgulaman.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=9, quantity=1, price=50
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 18:23:57 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 9
+            [name] => Sago't Gulaman
+            [price] => 50
+            [display_price] => 50.00
+            [quantity] => 1
+            [image] => assets/sagotgulaman.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=9, quantity=1, price=50
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 18:23:59 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 9
+            [name] => Sago't Gulaman
+            [price] => 50
+            [display_price] => 50.00
+            [quantity] => 1
+            [image] => assets/sagotgulaman.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=9, quantity=1, price=50
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 18:24:09 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 9
+            [name] => Sago't Gulaman
+            [price] => 50
+            [display_price] => 50.00
+            [quantity] => 1
+            [image] => assets/sagotgulaman.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=9, quantity=1, price=50
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 18:24:11 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 9
+            [name] => Sago't Gulaman
+            [price] => 50
+            [display_price] => 50.00
+            [quantity] => 1
+            [image] => assets/sagotgulaman.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=9, quantity=1, price=50
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 18:24:12 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 9
+            [name] => Sago't Gulaman
+            [price] => 50
+            [display_price] => 50.00
+            [quantity] => 1
+            [image] => assets/sagotgulaman.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=9, quantity=1, price=50
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 18:28:28 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 9
+            [name] => Sago't Gulaman
+            [price] => 50
+            [display_price] => 50.00
+            [quantity] => 1
+            [image] => assets/sagotgulaman.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=9, quantity=1, price=50
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 18:28:30 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 9
+            [name] => Sago't Gulaman
+            [price] => 50
+            [display_price] => 50.00
+            [quantity] => 1
+            [image] => assets/sagotgulaman.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=9, quantity=1, price=50
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 18:28:32 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 9
+            [name] => Sago't Gulaman
+            [price] => 50
+            [display_price] => 50.00
+            [quantity] => 1
+            [image] => assets/sagotgulaman.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=9, quantity=1, price=50
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 18:31:23 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 9
+            [name] => Sago't Gulaman
+            [price] => 50
+            [display_price] => 50.00
+            [quantity] => 1
+            [image] => assets/sagotgulaman.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=9, quantity=1, price=50
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 18:31:26 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 9
+            [name] => Sago't Gulaman
+            [price] => 50
+            [display_price] => 50.00
+            [quantity] => 1
+            [image] => assets/sagotgulaman.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=9, quantity=1, price=50
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 18:31:27 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 9
+            [name] => Sago't Gulaman
+            [price] => 50
+            [display_price] => 50.00
+            [quantity] => 1
+            [image] => assets/sagotgulaman.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=9, quantity=1, price=50
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 18:35:12 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 9
+            [name] => Sago't Gulaman
+            [price] => 50
+            [display_price] => 50.00
+            [quantity] => 1
+            [image] => assets/sagotgulaman.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=9, quantity=1, price=50
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 18:35:14 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 9
+            [name] => Sago't Gulaman
+            [price] => 50
+            [display_price] => 50.00
+            [quantity] => 1
+            [image] => assets/sagotgulaman.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=9, quantity=1, price=50
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 18:35:15 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 9
+            [name] => Sago't Gulaman
+            [price] => 50
+            [display_price] => 50.00
+            [quantity] => 1
+            [image] => assets/sagotgulaman.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=9, quantity=1, price=50
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 18:44:17 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 9
+            [name] => Sago't Gulaman
+            [price] => 50
+            [display_price] => 50.00
+            [quantity] => 1
+            [image] => assets/sagotgulaman.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=9, quantity=1, price=50
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 18:44:19 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 9
+            [name] => Sago't Gulaman
+            [price] => 50
+            [display_price] => 50.00
+            [quantity] => 1
+            [image] => assets/sagotgulaman.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=9, quantity=1, price=50
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 18:44:20 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 9
+            [name] => Sago't Gulaman
+            [price] => 50
+            [display_price] => 50.00
+            [quantity] => 1
+            [image] => assets/sagotgulaman.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=9, quantity=1, price=50
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 18:45:16 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 9
+            [name] => Sago't Gulaman
+            [price] => 50
+            [display_price] => 50.00
+            [quantity] => 1
+            [image] => assets/sagotgulaman.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=9, quantity=1, price=50
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 18:45:20 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 9
+            [name] => Sago't Gulaman
+            [price] => 50
+            [quantity] => 1
+            [image] => assets/sagotgulaman.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=9, quantity=1, price=50
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 18:51:57 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 9
+            [name] => Sago't Gulaman
+            [price] => 50
+            [quantity] => 1
+            [image] => assets/sagotgulaman.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=9, quantity=1, price=50
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 19:01:36 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 9
+            [name] => Sago't Gulaman
+            [price] => 50
+            [quantity] => 1
+            [image] => assets/sagotgulaman.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=9, quantity=1, price=50
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 19:23:11 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 9
+            [name] => Sago't Gulaman
+            [price] => 50
+            [quantity] => 1
+            [image] => assets/sagotgulaman.jpg
+        )
+
+    [1] => Array
+        (
+            [product_id] => 10
+            [name] => Fresh Buko Juice
+            [price] => 60
+            [display_price] => 60.00
+            [quantity] => 1
+            [image] => assets/bukojuice.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=9, quantity=1, price=50
+Successfully added item 0 to cart
+Item 1: product_id=10, quantity=1, price=60
+Successfully added item 1 to cart
+Transaction committed successfully
+Verification: Found 2 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 19:23:16 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 9
+            [name] => Sago't Gulaman
+            [price] => 50
+            [quantity] => 1
+            [image] => assets/sagotgulaman.jpg
+        )
+
+    [1] => Array
+        (
+            [product_id] => 10
+            [name] => Fresh Buko Juice
+            [price] => 60
+            [quantity] => 1
+            [image] => assets/bukojuice.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=9, quantity=1, price=50
+Successfully added item 0 to cart
+Item 1: product_id=10, quantity=1, price=60
+Successfully added item 1 to cart
+Transaction committed successfully
+Verification: Found 2 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 19:32:40 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 9
+            [name] => Sago't Gulaman
+            [price] => 50
+            [quantity] => 1
+            [image] => assets/sagotgulaman.jpg
+        )
+
+    [1] => Array
+        (
+            [product_id] => 10
+            [name] => Fresh Buko Juice
+            [price] => 60
+            [quantity] => 1
+            [image] => assets/bukojuice.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=9, quantity=1, price=50
+Successfully added item 0 to cart
+Item 1: product_id=10, quantity=1, price=60
+Successfully added item 1 to cart
+Transaction committed successfully
+Verification: Found 2 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 19:43:25 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 9
+            [name] => Sago't Gulaman
+            [price] => 50
+            [quantity] => 1
+            [image] => assets/sagotgulaman.jpg
+        )
+
+    [1] => Array
+        (
+            [product_id] => 10
+            [name] => Fresh Buko Juice
+            [price] => 60
+            [quantity] => 1
+            [image] => assets/bukojuice.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=9, quantity=1, price=50
+Successfully added item 0 to cart
+Item 1: product_id=10, quantity=1, price=60
+Successfully added item 1 to cart
+Transaction committed successfully
+Verification: Found 2 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 19:50:34 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 9
+            [name] => Sago't Gulaman
+            [price] => 50
+            [quantity] => 1
+            [image] => assets/sagotgulaman.jpg
+        )
+
+    [1] => Array
+        (
+            [product_id] => 10
+            [name] => Fresh Buko Juice
+            [price] => 60
+            [quantity] => 1
+            [image] => assets/bukojuice.jpg
+        )
+
+    [2] => Array
+        (
+            [product_id] => 6
+            [name] => Crispy Pata
+            [price] => 350
+            [display_price] => 350.00
+            [quantity] => 1
+            [image] => assets/crispypata.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=9, quantity=1, price=50
+Successfully added item 0 to cart
+Item 1: product_id=10, quantity=1, price=60
+Successfully added item 1 to cart
+Item 2: product_id=6, quantity=1, price=350
+Successfully added item 2 to cart
+Transaction committed successfully
+Verification: Found 3 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 19:50:38 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 9
+            [name] => Sago't Gulaman
+            [price] => 50
+            [quantity] => 1
+            [image] => assets/sagotgulaman.jpg
+        )
+
+    [1] => Array
+        (
+            [product_id] => 10
+            [name] => Fresh Buko Juice
+            [price] => 60
+            [quantity] => 1
+            [image] => assets/bukojuice.jpg
+        )
+
+    [2] => Array
+        (
+            [product_id] => 6
+            [name] => Crispy Pata
+            [price] => 350
+            [display_price] => 350.00
+            [quantity] => 1
+            [image] => assets/crispypata.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=9, quantity=1, price=50
+Successfully added item 0 to cart
+Item 1: product_id=10, quantity=1, price=60
+Successfully added item 1 to cart
+Item 2: product_id=6, quantity=1, price=350
+Successfully added item 2 to cart
+Transaction committed successfully
+Verification: Found 3 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 19:50:41 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 9
+            [name] => Sago't Gulaman
+            [price] => 50
+            [quantity] => 1
+            [image] => assets/sagotgulaman.jpg
+        )
+
+    [1] => Array
+        (
+            [product_id] => 6
+            [name] => Crispy Pata
+            [price] => 350
+            [display_price] => 350.00
+            [quantity] => 1
+            [image] => assets/crispypata.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=9, quantity=1, price=50
+Successfully added item 0 to cart
+Item 1: product_id=6, quantity=1, price=350
+Successfully added item 1 to cart
+Transaction committed successfully
+Verification: Found 2 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 19:50:42 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 6
+            [name] => Crispy Pata
+            [price] => 350
+            [display_price] => 350.00
+            [quantity] => 1
+            [image] => assets/crispypata.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=6, quantity=1, price=350
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 19:50:47 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 6
+            [name] => Crispy Pata
+            [price] => 350
+            [display_price] => 350.00
+            [quantity] => 1
+            [image] => assets/crispypata.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=6, quantity=1, price=350
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 19:50:48 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 6
+            [name] => Crispy Pata
+            [price] => 350
+            [display_price] => 350.00
+            [quantity] => 1
+            [image] => assets/crispypata.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=6, quantity=1, price=350
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 19:50:49 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 6
+            [name] => Crispy Pata
+            [price] => 350
+            [display_price] => 350.00
+            [quantity] => 1
+            [image] => assets/crispypata.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=6, quantity=1, price=350
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 20:02:32 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 6
+            [name] => Crispy Pata
+            [price] => 350
+            [quantity] => 1
+            [image] => assets/crispypata.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=6, quantity=1, price=350
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 20:07:31 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 6
+            [name] => Crispy Pata
+            [price] => 350
+            [quantity] => 1
+            [image] => assets/crispypata.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=6, quantity=1, price=350
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 20:07:34 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 6
+            [name] => Crispy Pata
+            [price] => 350
+            [quantity] => 1
+            [image] => assets/crispypata.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=6, quantity=1, price=350
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 20:13:20 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 6
+            [name] => Crispy Pata
+            [price] => 350
+            [quantity] => 1
+            [image] => assets/crispypata.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=6, quantity=1, price=350
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 20:22:59 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 10
+            [name] => Fresh Buko Juice
+            [price] => 60
+            [display_price] => 60.00
+            [quantity] => 1
+            [image] => assets/bukojuice.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=10, quantity=1, price=60
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 20:23:01 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 10
+            [name] => Fresh Buko Juice
+            [price] => 60
+            [display_price] => 60.00
+            [quantity] => 1
+            [image] => assets/bukojuice.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=10, quantity=1, price=60
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 20:23:02 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 10
+            [name] => Fresh Buko Juice
+            [price] => 60
+            [display_price] => 60.00
+            [quantity] => 1
+            [image] => assets/bukojuice.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=10, quantity=1, price=60
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 20:28:17 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 4
+            [name] => Sinigang na Baboy
+            [price] => 180
+            [display_price] => 180.00
+            [quantity] => 1
+            [image] => assets/product-2.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=4, quantity=1, price=180
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 20:28:20 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 4
+            [name] => Sinigang na Baboy
+            [price] => 180
+            [display_price] => 180.00
+            [quantity] => 1
+            [image] => assets/product-2.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=4, quantity=1, price=180
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 20:28:22 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 4
+            [name] => Sinigang na Baboy
+            [price] => 180
+            [display_price] => 180.00
+            [quantity] => 1
+            [image] => assets/product-2.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=4, quantity=1, price=180
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 20:33:04 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 4
+            [name] => Sinigang na Baboy
+            [price] => 180
+            [quantity] => 2
+            [image] => assets/product-2.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=4, quantity=2, price=180
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 20:33:13 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 10
+            [name] => Fresh Buko Juice
+            [price] => 60
+            [display_price] => 60.00
+            [quantity] => 1
+            [image] => assets/bukojuice.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=10, quantity=1, price=60
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 20:33:14 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 10
+            [name] => Fresh Buko Juice
+            [price] => 60
+            [display_price] => 60.00
+            [quantity] => 1
+            [image] => assets/bukojuice.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=10, quantity=1, price=60
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 20:33:17 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 10
+            [name] => Fresh Buko Juice
+            [price] => 60
+            [display_price] => 60.00
+            [quantity] => 5
+            [image] => assets/bukojuice.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=10, quantity=5, price=60
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 20:44:16 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 10
+            [name] => Fresh Buko Juice
+            [price] => 60
+            [quantity] => 5
+            [image] => assets/bukojuice.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=10, quantity=5, price=60
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 20:44:23 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 9
+            [name] => Sago't Gulaman
+            [price] => 50
+            [display_price] => 50.00
+            [quantity] => 1
+            [image] => assets/sagotgulaman.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=9, quantity=1, price=50
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 20:44:25 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 9
+            [name] => Sago't Gulaman
+            [price] => 50
+            [display_price] => 50.00
+            [quantity] => 1
+            [image] => assets/sagotgulaman.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=9, quantity=1, price=50
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========
+
+
+========= CART SYNC START: 2025-05-25 20:44:27 =========
+User ID: 1
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [product_id] => 9
+            [name] => Sago't Gulaman
+            [price] => 50
+            [display_price] => 50.00
+            [quantity] => 2
+            [image] => assets/sagotgulaman.jpg
+        )
+
+)
+
+Cart ID: 2
+Database connection successful
+Transaction started
+Cleared existing cart items for cart_id: 2
+Adding new items to cart...
+Item 0: product_id=9, quantity=2, price=50
+Successfully added item 0 to cart
+Transaction committed successfully
+Verification: Found 1 items in cart_id: 2
+========= CART SYNC COMPLETED SUCCESSFULLY =========

@@ -1,0 +1,55 @@
+/* PayMongo Admin Dashboard Styles */
+
+/* PayMongo payment details styling */
+.paymongo-info {
+    margin: 20px 0;
+    padding: 15px;
+    background-color: #f8f9ff;
+    border: 1px solid #e0e5ff;
+    border-radius: 5px;
+}
+
+.paymongo-info h4 {
+    color: #4a6bdf;
+    margin-top: 0;
+    margin-bottom: 15px;
+    font-size: 16px;
+    border-bottom: 1px solid #e0e5ff;
+    padding-bottom: 8px;
+}
+
+.paymongo-info p {
+    margin-bottom: 8px;
+    font-size: 14px;
+}
+
+.paymongo-info strong {
+    display: inline-block;
+    width: 150px;
+    color: #444;
+}
+
+.paymongo-actions {
+    margin-top: 15px;
+    padding-top: 10px;
+    border-top: 1px dashed #e0e5ff;
+}
+
+.paymongo-actions .btn {
+    background-color: #4a6bdf;
+    color: white;
+    padding: 5px 10px;
+    font-size: 12px;
+    border-radius: 4px;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.paymongo-actions .btn:hover {
+    background-color: #3a5bcf;
+}
+
+.text-muted {
+    color: #999;
+    font-style: italic;
+}

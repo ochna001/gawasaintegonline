@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Local Flavors at Your Fingertips - Order Confirmation</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="css/confirmation.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <header class="header">
+        <nav class="nav-container">
+            <div class="logo">
+                <a href="index.html" style="display: flex; align-items: center;">
+                    <img src="assets/logo.png" alt="Local Flavors Logo" class="logo-image" style="margin-right: 10px;">
+                    <h1 style="margin: 0;">LOCAL FLAVORS</h1>
+                </a>
+            </div>
+            <div class="nav-links">
+                <a href="index.html">Home</a>
+                <a href="menu.php">Menu</a>
+                <a href="profile.php" class="account-link" id="accountLink">Account</a>
+                <a href="cart.php" class="cart-icon">
+                    <i class="fas fa-shopping-cart"></i>
+                    <span class="cart-count">0</span>
+                </a>
+                <div class="auth-links" id="authLinks">
+                    <a href="login.php" class="login-link">Login</a>
+                    <a href="register.php" class="register-link">Register</a>
+                </div>
+            </div>
+            <button class="mobile-menu-btn">
+                <i class="fas fa-bars"></i>
+            </button>
+        </nav>
+    </header>
+
+    <main class="confirmation-main">
+        <div class="confirmation-container">
+            <div class="confirmation-header">
+                <i class="fas fa-check-circle"></i>
+                <h1>Order Confirmed!</h1>
+                <p>Thank you for your order. We'll start preparing your delicious meal right away!</p>
+            </div>
+
+            <div class="order-details">
+                <h2>Order Details</h2>
+                <div class="order-info">
+                    <div class="info-group">
+                        <span class="label">Order Number:</span>
+                        <span class="value" id="orderNumber">12345</span>
+                    </div>
+                    <div class="info-group">
+                        <span class="label">Order Date:</span>
+                        <span class="value" id="orderDate"></span>
+                    </div>
+                    <div class="info-group">
+                        <span class="label">Estimated Delivery:</span>
+                        <span class="value" id="estimatedDelivery"></span>
+                    </div>
+                </div>
+
+                <div class="delivery-status">
+                    <h3>Order Status</h3>
+                    <div class="status-timeline">
+                        <div class="status-step active">
+                            <i class="fas fa-clipboard-check"></i>
+                            <span>Order Confirmed</span>
+                        </div>
+                        <div class="status-step">
+                            <i class="fas fa-utensils"></i>
+                            <span>Preparing</span>
+                        </div>
+                        <div class="status-step">
+                            <i class="fas fa-motorcycle"></i>
+                            <span>Out for Delivery</span>
+                        </div>
+                        <div class="status-step">
+                            <i class="fas fa-home"></i>
+                            <span>Delivered</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="delivery-info">
+                    <h3>Delivery Information</h3>
+                    <div class="info-group">
+                        <span class="label">Delivery Address:</span>
+                        <span class="value" id="deliveryAddress"></span>
+                    </div>
+                    <div class="info-group">
+                        <span class="label">Contact Number:</span>
+                        <span class="value" id="contactNumber"></span>
+                    </div>
+                </div>
+
+                <div class="order-summary">
+                    <h3>Order Summary</h3>
+                    <div class="summary-items" id="orderItems">
+                        <!-- Order items will be dynamically added here -->
+                    </div>
+                    <div class="summary-total">
+                        <div class="total-line">
+                            <span>Subtotal</span>
+                            <span id="subtotal">₱0.00</span>
+                        </div>
+                        <div class="total-line">
+                            <span>Delivery Fee</span>
+                            <span id="deliveryFee">₱50.00</span>
+                        </div>
+                        <div class="total-line final">
+                            <span>Total</span>
+                            <span id="total">₱0.00</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="confirmation-actions">
+                <a href="menu.php" class="action-btn">Order More</a>
+                <a href="profile.php" class="action-btn secondary">Track Order</a>
+            </div>
+        </div>
+    </main>
+
+    <footer class="footer">
+        <div class="footer-content">
+            <div class="footer-section">
+                <h3>Contact Us</h3>
+                <p>Email: info@localfavors.com</p>
+                <p>Phone: (02) 123-4567</p>
+            </div>
+            <div class="footer-section">
+                <h3>Follow Us</h3>
+                <div class="social-links">
+                    <a href="#"><i class="fab fa-facebook"></i></a>
+                    <a href="#"><i class="fab fa-instagram"></i></a>
+                    <a href="#"><i class="fab fa-twitter"></i></a>
+                </div>
+            </div>
+            <div class="footer-section">
+                <h3>Hours</h3>
+                <p>Monday - Sunday</p>
+                <p>8:00 AM - 9:00 PM</p>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; 2024 Local Flavors. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script src="js/main.js"></script>
+    <script src="js/confirmation.js"></script>
+    <script src="js/header.js"></script>
+</body>
+</html>

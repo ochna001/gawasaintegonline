@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Local Flavors at Your Fingertips - Menu</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="css/menu.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <header class="header">
+        <nav class="nav-container">
+            <div class="logo">
+                <a href="index.html" style="display: flex; align-items: center;">
+                    <img src="assets/logo.png" alt="Local Flavors Logo" class="logo-image" style="margin-right: 10px;">
+                    <h1 style="margin: 0;">LOCAL FLAVORS</h1>
+                </a>
+            </div>
+            <div class="nav-links">
+                <a href="index.html">Home</a>
+                <a href="menu.html" class="active">Menu</a>
+                <a href="profile.php" class="account-link" id="accountLink">Account</a>
+                <a href="cart.html" class="cart-icon">
+                    <i class="fas fa-shopping-cart"></i>
+                    <span class="cart-count">0</span>
+                </a>
+                <div class="auth-links" id="authLinks">
+                    <a href="login.php" class="login-link">Login</a>
+                    <a href="register.php" class="register-link">Register</a>
+                </div>
+            </div>
+            <button class="mobile-menu-btn">
+                <i class="fas fa-bars"></i>
+            </button>
+        </nav>
+    </header>
+
+    <main class="menu-main">
+        <section class="menu-header">
+            <h2>Our Menu</h2>
+            <div class="menu-filters">
+                <input type="text" id="search" placeholder="Search dishes...">
+                <div class="category-filters">
+                    <button class="filter-btn active" data-category="all">All</button>
+                    <button class="filter-btn" data-category="breakfast">Breakfast</button>
+                    <button class="filter-btn" data-category="lunch">Lunch</button>
+                    <button class="filter-btn" data-category="dinner">Dinner</button>
+                    <button class="filter-btn" data-category="desserts">Desserts</button>
+                    <button class="filter-btn" data-category="beverages">Beverages</button>
+                </div>
+            </div>
+        </section>
+
+        <section class="menu-grid">
+            <!-- Breakfast Section -->
+            <div class="menu-category" data-category="breakfast">
+                <h2>Breakfast</h2>
+                <div class="dish-grid">
+                    <div class="dish-card">
+                        <img src="assets/tapsilog.jpg" alt="Tapsilog" class="dish-image">
+                        <h3>Tapsilog</h3>
+                        <p>Marinated beef, garlic rice, and fried egg</p>
+                        <span class="price">₱120</span>
+                        <button class="add-to-cart">Add to Cart</button>
+                    </div>
+                    <div class="dish-card">
+                        <img src="assets/longsilog.jpg" alt="Longsilog" class="dish-image">
+                        <h3>Longsilog</h3>
+                        <p>Sweet pork sausage, garlic rice, and fried egg</p>
+                        <span class="price">₱110</span>
+                        <button class="add-to-cart">Add to Cart</button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Lunch Section -->
+            <div class="menu-category" data-category="lunch">
+                <h2>Lunch</h2>
+                <div class="dish-grid">
+                    <div class="dish-card">
+                        <img src="assets/product-1.jpg" alt="Adobo" class="dish-image">
+                        <h3>Chicken Adobo</h3>
+                        <p>Classic Filipino dish with tender chicken in soy-vinegar sauce</p>
+                        <span class="price">₱150</span>
+                        <button class="add-to-cart">Add to Cart</button>
+                    </div>
+                    <div class="dish-card">
+                        <img src="assets/product-2.jpg" alt="Sinigang" class="dish-image">
+                        <h3>Pork Sinigang</h3>
+                        <p>Hearty tamarind-based soup with pork and vegetables</p>
+                        <span class="price">₱180</span>
+                        <button class="add-to-cart">Add to Cart</button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Dinner Section -->
+            <div class="menu-category" data-category="dinner">
+                <h2>Dinner</h2>
+                <div class="dish-grid">
+                    <div class="dish-card">
+                        <img src="assets/product-3.jpg" alt="Kare-Kare" class="dish-image">
+                        <h3>Kare-Kare</h3>
+                        <p>Rich peanut stew with oxtail and vegetables</p>
+                        <span class="price">₱200</span>
+                        <button class="add-to-cart">Add to Cart</button>
+                    </div>
+                    <div class="dish-card">
+                        <img src="assets/crispypata.jpg" alt="Crispy Pata" class="dish-image">
+                        <h3>Crispy Pata</h3>
+                        <p>Deep-fried pork knuckle served with special sauce</p>
+                        <span class="price">₱350</span>
+                        <button class="add-to-cart">Add to Cart</button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Desserts Section -->
+            <div class="menu-category" data-category="desserts">
+                <h2>Desserts</h2>
+                <div class="dish-grid">
+                    <div class="dish-card">
+                        <img src="assets/halohalo.jpg" alt="Halo-Halo" class="dish-image">
+                        <h3>Halo-Halo</h3>
+                        <p>Mixed fruits, beans, and shaved ice with milk and leche flan</p>
+                        <span class="price">₱90</span>
+                        <button class="add-to-cart">Add to Cart</button>
+                    </div>
+                    <div class="dish-card">
+                        <img src="assets/lecheflan.jpg" alt="Leche Flan" class="dish-image">
+                        <h3>Leche Flan</h3>
+                        <p>Classic Filipino caramel custard</p>
+                        <span class="price">₱80</span>
+                        <button class="add-to-cart">Add to Cart</button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Beverages Section -->
+            <div class="menu-category" data-category="beverages">
+                <h2>Beverages</h2>
+                <div class="dish-grid">
+                    <div class="dish-card">
+                        <img src="assets/sagotgulaman.jpg" alt="Sago't Gulaman" class="dish-image">
+                        <h3>Sago't Gulaman</h3>
+                        <p>Sweet brown sugar drink with sago pearls and gulaman</p>
+                        <span class="price">₱50</span>
+                        <button class="add-to-cart">Add to Cart</button>
+                    </div>
+                    <div class="dish-card">
+                        <img src="assets/bukojuice.jpg" alt="Fresh Buko Juice" class="dish-image">
+                        <h3>Fresh Buko Juice</h3>
+                        <p>Fresh coconut water with coconut meat</p>
+                        <span class="price">₱60</span>
+                        <button class="add-to-cart">Add to Cart</button>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="footer">
+        <div class="footer-content">
+            <div class="footer-section">
+                <h3>Contact Us</h3>
+                <p>Email: info@localfavors.com</p>
+                <p>Phone: (02) 123-4567</p>
+            </div>
+            <div class="footer-section">
+                <h3>Follow Us</h3>
+                <div class="social-links">
+                    <a href="#"><i class="fab fa-facebook"></i></a>
+                    <a href="#"><i class="fab fa-instagram"></i></a>
+                    <a href="#"><i class="fab fa-twitter"></i></a>
+                </div>
+            </div>
+            <div class="footer-section">
+                <h3>Hours</h3>
+                <p>Monday - Sunday</p>
+                <p>8:00 AM - 9:00 PM</p>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; 2024 Local Flavors. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script src="js/main.js"></script>
+    <script src="js/menu.js"></script>
+    <script src="js/header.js"></script>
+</body>
+</html>
